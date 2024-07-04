@@ -1,11 +1,11 @@
 # Site settings
 title: MSRA Shanghai AI/ML Group
-description: "A minimal, responsive, ready to use blog template, built with Jekyll."
-url: "http://www.dyutibarma.github.io/monochrome"
+description: "Introduction of the research and news of MSRA Shanghai AI/ML Group."
+url: "https://shanghai-ai-ml.github.io"
 author:
-  name: "The Review Index"
-  email: "dyutibarma@gmail.com"
-  url: "https://thereviewindex.com"
+  name: "MSRA Shanghai AI/ML Group"
+  email: "dongsli@microsoft.com"
+  url: "https://shanghai-ai-ml.github.io"
 
 # Build settings
 baseurl: / # Change this to your relative path (ex: /blog/), or leave just a /
