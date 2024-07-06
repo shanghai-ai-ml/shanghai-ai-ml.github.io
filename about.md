@@ -22,7 +22,7 @@ We are interested in applying cutting-edge machine learning techniques to real-w
 - **AI-aided speech therapy**: We propose deep learning-based algorithms to detect and estimate hypernasality in patients with cleft lip and palate.
 - **AI-based drug discovery**: We develop new drug combination algorithms for more effective cancer treatments and design innovative diffusion algorithms for flexible molecule generation.
 - **Medical image analysis**: We aim to improve the performance of ultrasound localization microscopy in medical ultrasound videos and develop effective pretraining and finetuning techniques for medical image foundation models.
-- 
+
 ### AI and Knowledge Discovery
 
 We are focused on explainable machine learning to help people better understand AI models and to enhance human learning by unveiling the hidden knowledge within today's advanced AI systems.
