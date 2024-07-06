@@ -5,11 +5,11 @@ description: This page introduces the research directions of our group.
 ---
 ## About
 
-MSRA Shanghai AI/ML Group focuses on machine learning and its applications. More specifically, we are interested to the following directions.
+The MSRA Shanghai AI/ML Group focuses on machine learning and its applications. More specifically, we are interested to the following directions.
 
 ### AI and brain
 
-We are interested in the interdisciplinary study of AI and the brain, with the goal of using AI to enhance our understanding of the brain and applying these insights to improve both AI technologies and brain health.
+We are interested in the interdisciplinary study of AI and the brain, with the goal of using AI to enhance our understanding of the brain and applying these insights to improve both AI and brain health.
 
 - **Brain-inspired AI**: This includes spiking neural networks, brain-inspired neural network architectures, and brain-inspired algorithms, among other areas.
 - **Brain-computer interfaces**: Our focus is on understanding EEG signals and developing non-invasive EEG-based BCI applications.
