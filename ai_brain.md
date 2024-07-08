@@ -49,6 +49,13 @@ We work on the interdisciplinary research between AI and the brain, with the goa
         </p>
     </figure>
   - Signal delay occurs when there is a lag between an agent’s perception of the environment and its corresponding actions. We formalize delayed-observation Markov decision processes (DOMDP) by extending the standard MDP framework to incorporate signal delays. Next, we elucidate the challenges posed by the presence of signal delay in DRL, showing that trivial DRL algorithms and generic methods for partially observable tasks suffer greatly from delays. Lastly, we propose effective strategies to overcome these challenges [Wang et al., ICLR 2024 Spotlight][5].
+    <figure>
+        <p align="center">
+            <img src="/img/ai_brain/DRLwD_overview.png" height="100">
+            <img src="/img/ai_brain/DRLwD_method.png" height="100">
+            <img src="/img/ai_brain/DRLwD_result.png" height="100">
+        </p>
+    </figure>
 
 ## Brain-computer Interface
 
