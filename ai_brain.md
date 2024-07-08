@@ -61,6 +61,13 @@ We work on the interdisciplinary research between AI and the brain, with the goa
 
 - **EEG Signal Processing**: We develop pretraining techniques for EEG signals, aiming to better understand EEG signals from large-scale unlabeled data.
   - We proposed one of earliest EEG foundation model, which can consistently improve the performance of EEG-related downstream tasks. To break boundaries between different EEG resources and facilitate cross-dataset EEG pre-training, we propose to map all kinds of channel selections to a unified topology. We further introduce MMM, a pre-training framework with Multi-dimensional position encoding, Multi-level channel hierarchy, and Multi-stage pre-training strategy built on the unified topology to obtain topology-agnostic representations [Yi et al., NeurIPS 2023][6].
+    <figure>
+        <p align="center">
+            <img src="/img/ai_brain/MMM_overview.png" height="100">
+            <img src="/img/ai_brain/MMM_result.png" height="100">
+            <img src="/img/ai_brain/MMM_reconstruct.png" height="100">
+        </p>
+    </figure>
 
 - **EEG-based Applications**: We improve the performance of EEG-based BCI applications by combing EEG foundation models and advanced machine learning techniques.
   - We improve the performance of neonatal seizure detection by proposing a deep learning framework, namely STATENet, to address the exclusive challenges with exquisite designs at the temporal, spatial and model levels. The experiments over the real-world large-scale neonatal EEG dataset illustrate that our framework achieves significantly better seizure detection performance [Li et al., SMC 2023][7].
