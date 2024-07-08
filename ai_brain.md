@@ -17,6 +17,13 @@ We work on the interdisciplinary research between AI and the brain, with the goa
 
 - **Spiking neural networks**: We aim to make the performance of spiking neural networks to be competitive to their ANN counterparts.
   - we proposed a framework for SNNs in time-series forecasting tasks, leveraging the efficiency of spiking neurons in processing temporal information, which can achieve comparable or superior results to traditional time-series forecasting methods on diverse benchmarks with much less energy consumption [Lv et al., ICML 2024][1].
+    <figure>
+        <p align="center">
+            <img src="/img/ai_brain/SeqSNN_overview.png" height="100">
+            <img src="/img/ai_brain/SeqSNN_result_acc.png" height="100">
+            <img src="/img/ai_brain/SeqSNN_result_energy.png" height="100">
+        </p>
+    </figure>
   - We proposed a novel position encoding (PE) technique for SNNs, termed CPG-PE, by drawing inspiration from the central pattern generators (CPGs) in the human brain, which produce rhythmic patterned outputs without requiring rhythmic inputs. Extensive experiments across various domains, including time-series forecasting, natural language processing, and image classification, show that SNNs with CPG-PE outperform their conventional counterparts [Lv et al., arXiv 2024][2].
 
 - **brain-inspired neural networks**: We design new neural network architectures by mimicking the biological neural networks, aiming to improve the learning/parameter efficiency of ANNs.
