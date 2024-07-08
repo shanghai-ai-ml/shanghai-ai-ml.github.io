@@ -71,6 +71,13 @@ We work on the interdisciplinary research between AI and the brain, with the goa
 
 - **EEG-based Applications**: We improve the performance of EEG-based BCI applications by combing EEG foundation models and advanced machine learning techniques.
   - We improve the performance of neonatal seizure detection by proposing a deep learning framework, namely STATENet, to address the exclusive challenges with exquisite designs at the temporal, spatial and model levels. The experiments over the real-world large-scale neonatal EEG dataset illustrate that our framework achieves significantly better seizure detection performance [Li et al., SMC 2023][7].
+    <figure>
+        <p align="center">
+            <img src="/img/ai_brain/StateNet_motivation_1.png" height="100">
+            <img src="/img/ai_brain/StateNet_motivation_2.png" height="100">
+            <img src="/img/ai_brain/StateNet_result.png" height="100">
+        </p>
+    </figure>
 
 - **The PhysioPro Project**: PhysioPro is a deep learning framework for physiological data processing and understanding, which contains most of our EEG related work <https://github.com/microsoft/PhysioPro>. Note that this code should not be used in clinical settings to influence treatment decisions.
 
