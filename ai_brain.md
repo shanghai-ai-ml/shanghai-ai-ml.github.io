@@ -25,4 +25,5 @@ We work on the interdisciplinary research between AI and the brain, with the goa
 ## Reference
 
 [1]: Changze Lv, Yansen Wang, Dongqi Han, Xiaoqing Zheng, Xuanjing Huang, Dongsheng Li. Efficient and Effective Time-Series Forecasting with Spiking Neural Networks. ICML 2024. <https://arxiv.org/abs/2402.01533>
+
 [2]: Changze Lv, Dongqi Han, Yansen Wang, Xiaoqing Zheng, Xuanjing Huang, Dongsheng Li. Advancing Spiking Neural Networks for Sequential Modeling with Central Pattern Generators. arXiv 2024. <https://arxiv.org/abs/2405.14362>
