@@ -8,6 +8,11 @@ We work on the interdisciplinary research between AI and the brain, with the goa
 
 ![The overview of two researcb direction!](/img/ai_brain_overview.png "AI + Brain Research Overview")
 
+<figure>
+    <img src="/img/ai_brain_overview.png" width="500">
+    <figcaption>AI + Brain Research Overview.</figcaption>
+</figure>
+
 ## Brain-inspired AI
 
 - **Spiking neural networks**: We aim to make the performance of spiking neural networks to be competitive to their ANN counterparts.
