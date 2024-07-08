@@ -33,6 +33,12 @@ We work on the interdisciplinary research between AI and the brain, with the goa
 
 - **brain-inspired neural networks**: We design new neural network architectures by mimicking the biological neural networks, aiming to improve the learning/parameter efficiency of ANNs.
   - We proposed a new type of neural network inspired by the architectures of neuronal circuits, namely Circuit Neural Network (CircuitNet). Compared with traditional feed-forward networks, CircuitNet has the ability to model more types of neuron connections such as feed-back and lateral motifs. Experiments have demonstrated that CircuitNet can outperform popular neural network architectures in function approximation, reinforcement learning, image classification, and time series forecasting tasks [Wang et al., ICML 2023][3].
+    <figure>
+        <p align="center">
+            <img src="/img/ai_brain/CircuitNet_overview.png" height="100">
+            <img src="/img/ai_brain/CircuitNet_ts_acc.png" height="100">
+        </p>
+    </figure>
   
 - **brain-inspired algorithms**: We design new algorithms to mimic the complex behaviors of human, aiming to understand the mechanism of human decision-making.
   - We introduce a theoretical framework using variational Bayesian theory, incorporating a Bayesian "intention" variable. Habitual behavior depends on the prior distribution of intention, computed from sensory context without goal-specification. In contrast, goal-directed behavior relies on the goal-conditioned, posterior distribution of intention, inferred through variational free energy minimization. Our work suggests a fresh perspective on the neural mechanisms of habits and goals, shedding light on future research in decision-making [Han et al., Nature Communications 2024][4].
