@@ -8,8 +8,10 @@ We work on the interdisciplinary research between AI and the brain, with the goa
 
 
 <figure>
-    <img src="/img/ai_brain_overview.png" width="500" class="center">
-    <figcaption>AI + Brain Research Overview.</figcaption>
+    <p align="center">
+        <img src="/img/ai_brain_overview.png" width="500">
+        <figcaption>AI + Brain Research Overview.</figcaption>
+    </p>
 </figure>
 
 ## Brain-inspired AI
