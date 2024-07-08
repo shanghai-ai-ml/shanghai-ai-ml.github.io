@@ -22,7 +22,13 @@ We work on the interdisciplinary research between AI and the brain, with the goa
 
 ## Brain-computer Interface
 
+- **EEG Signal Processing**: We develop pretraining techniques for EEG signals, aiming to better understand EEG signals from large-scale unlabeled data.
+  - We proposed one of earliest EEG foundation model, which can consistently improve the performance of EEG-related downstream tasks. To break boundaries between different EEG resources and facilitate cross-dataset EEG pre-training, we propose to map all kinds of channel selections to a unified topology. We further introduce MMM, a pre-training framework with Multi-dimensional position encoding, Multi-level channel hierarchy, and Multi-stage pre-training strategy built on the unified topology to obtain topology-agnostic representations [Yi et al., NeurIPS 2023][5].
 
+- **EEG-based Applications**: We improve the performance of EEG-based BCI applications by combing EEG foundation models and advanced machine learning techniques.
+  - We improve the performance of neonatal seizure detection by proposing a deep learning framework, namely STATENet, to address the exclusive challenges with exquisite designs at the temporal, spatial and model levels. The experiments over the real-world large-scale neonatal EEG dataset illustrate that our framework achieves significantly better seizure detection performance.
+
+- **The PhysioPro Project**: PhysioPro is a deep learning framework for physiological data processing and understanding, which contains most of our EEG related work <https://github.com/microsoft/PhysioPro>. Note that this code should not be used in clinical settings to influence treatment decisions.
 
 ## Embodied AI
 
@@ -36,3 +42,6 @@ We work on the interdisciplinary research between AI and the brain, with the goa
 [3]: Yansen Wang, Xinyang Jiang, Kan Ren, Caihua Shan, Xufang Luo, Dongqi Han, Kaitao Song, Yifei Shen, Dongsheng Li. CircuitNet: A Generic Neural Network to Realize Universal Circuit Motif Modeling. ICML 2023. <https://proceedings.mlr.press/v202/wang23k.html>
 
 [4]: Dongqi Han, Kenji Doya, Dongsheng Li, Jun Tani. Synergizing habits and goals with variational Bayes. Nature Communications, volume 15, Article number: 4461 (2024). <https://www.nature.com/articles/s41467-024-48577-7>
+
+[5]: Ke Yi, Yansen Wang, Kan Ren, Dongsheng Li. Learning Topology-Agnostic EEG Representations with Geometry-Aware Modeling. NeurIPS 2023. <https://proceedings.neurips.cc/paper_files/paper/2023/hash/a8c893712cb7858e49631fb03c941f8d-Abstract-Conference.html>
+
