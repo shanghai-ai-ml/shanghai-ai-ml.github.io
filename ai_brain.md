@@ -33,7 +33,7 @@ We work on the interdisciplinary research between AI and the brain, with the goa
 
 ## Embodied AI
 
-- **Open-ended Tasks Solving**: A major challenge in embodied agents is task open-endedness. In practice, robots often need to perform tasks with novel goals that are multifaceted, dynamic, lack a definitive "end-state", and were not encountered during training. To tackle this problem, this paper introduces \textit{Diffusion for Open-ended Goals} (DOG), a novel framework designed to enable embodied AI to plan and act flexibly and dynamically for open-ended task goals [Wang et al., NeurIPS Workshop 2023][8]. 
+- **Open-ended Tasks Solving**: A major challenge in embodied agents is task open-endedness. In practice, robots often need to perform tasks with novel goals that are multifaceted, dynamic, lack a definitive "end-state", and were not encountered during training. To tackle this problem, this paper introduces *Diffusion for Open-ended Goals* (DOG), a novel framework designed to enable embodied AI to plan and act flexibly and dynamically for open-ended task goals [Wang et al., NeurIPS Workshop 2023][8]. 
 
 ## Reference
 
