@@ -80,8 +80,7 @@ We work on the interdisciplinary research between AI and the brain, with the goa
     </figure>
 
 - **The PhysioPro Project**: PhysioPro is a deep learning framework for physiological data processing and understanding, which contains most of our EEG related work <https://github.com/microsoft/PhysioPro>.
-> [!NOTE]
-> This code base should not be used in clinical settings to influence treatment decisions.
+> :memo: **Note:** This code base should not be used in clinical settings.
 
 ## Embodied AI
 
