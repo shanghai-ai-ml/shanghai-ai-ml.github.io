@@ -93,18 +93,18 @@ We work on the interdisciplinary research between AI and the brain, with the goa
 
 ## Reference
 
-[1]: Changze Lv, Yansen Wang, Dongqi Han, Xiaoqing Zheng, Xuanjing Huang, Dongsheng Li. Efficient and Effective Time-Series Forecasting with Spiking Neural Networks. ICML 2024. <https://arxiv.org/abs/2402.01533>
+[1]: [Changze Lv, Yansen Wang, Dongqi Han, Xiaoqing Zheng, Xuanjing Huang, Dongsheng Li. Efficient and Effective Time-Series Forecasting with Spiking Neural Networks. ICML 2024.](https://arxiv.org/abs/2402.01533)
 
-[2]: Changze Lv, Dongqi Han, Yansen Wang, Xiaoqing Zheng, Xuanjing Huang, Dongsheng Li. Advancing Spiking Neural Networks for Sequential Modeling with Central Pattern Generators. arXiv 2024. <https://arxiv.org/abs/2405.14362>
+[2]: [Changze Lv, Dongqi Han, Yansen Wang, Xiaoqing Zheng, Xuanjing Huang, Dongsheng Li. Advancing Spiking Neural Networks for Sequential Modeling with Central Pattern Generators. arXiv 2024.](https://arxiv.org/abs/2405.14362)
 
-[3]: Yansen Wang, Xinyang Jiang, Kan Ren, Caihua Shan, Xufang Luo, Dongqi Han, Kaitao Song, Yifei Shen, Dongsheng Li. CircuitNet: A Generic Neural Network to Realize Universal Circuit Motif Modeling. ICML 2023. <https://proceedings.mlr.press/v202/wang23k.html>
+[3]: [Yansen Wang, Xinyang Jiang, Kan Ren, Caihua Shan, Xufang Luo, Dongqi Han, Kaitao Song, Yifei Shen, Dongsheng Li. CircuitNet: A Generic Neural Network to Realize Universal Circuit Motif Modeling. ICML 2023.] (https://proceedings.mlr.press/v202/wang23k.html)
 
-[4]: Dongqi Han, Kenji Doya, Dongsheng Li, Jun Tani. Synergizing habits and goals with variational Bayes. Nature Communications, volume 15, Article number: 4461 (2024). <https://www.nature.com/articles/s41467-024-48577-7>
+[4]: [Dongqi Han, Kenji Doya, Dongsheng Li, Jun Tani. Synergizing habits and goals with variational Bayes. Nature Communications, volume 15, Article number: 4461 (2024).] (https://www.nature.com/articles/s41467-024-48577-7)
 
-[5]: Wei Wang, Dongqi Han, Xufang Luo, Dongsheng Li. Addressing Signal Delay in Deep Reinforcement Learning. ICLR 2024 spotlight. <https://openreview.net/forum?id=Z8UfDs4J46>
+[5]: [Wei Wang, Dongqi Han, Xufang Luo, Dongsheng Li. Addressing Signal Delay in Deep Reinforcement Learning. ICLR 2024 spotlight.] (https://openreview.net/forum?id=Z8UfDs4J46)
 
-[6]: Ke Yi, Yansen Wang, Kan Ren, Dongsheng Li. Learning Topology-Agnostic EEG Representations with Geometry-Aware Modeling. NeurIPS 2023. <https://proceedings.neurips.cc/paper_files/paper/2023/hash/a8c893712cb7858e49631fb03c941f8d-Abstract-Conference.html>
+[6]: [Ke Yi, Yansen Wang, Kan Ren, Dongsheng Li. Learning Topology-Agnostic EEG Representations with Geometry-Aware Modeling. NeurIPS 2023.] (https://proceedings.neurips.cc/paper_files/paper/2023/hash/a8c893712cb7858e49631fb03c941f8d-Abstract-Conference.html)
 
-[7]: Ziyue Li, Yuchen Fang, You Li, Kan Ren, Yansen Wang, Xufang Luo, Juanyong Duan, Congrui Huang, Dongsheng Li, Lili Qiu. Protecting the Future: Neonatal Seizure Detection with Spatial-Temporal Modeling. IEEE SMC 2023. <https://arxiv.org/abs/2307.05382>
+[7]: [Ziyue Li, Yuchen Fang, You Li, Kan Ren, Yansen Wang, Xufang Luo, Juanyong Duan, Congrui Huang, Dongsheng Li, Lili Qiu. Protecting the Future: Neonatal Seizure Detection with Spatial-Temporal Modeling. IEEE SMC 2023.] (https://arxiv.org/abs/2307.05382)
 
-[8]: William Wei Wang, Dongqi Han, Xufang Luo, Yifei Shen, Charles Ling, Boyu Wang, Dongsheng Li. Toward Open-ended Embodied Tasks Solving. Second Agent Learning in Open-Endedness Workshop, NeurIPS 2023. <https://arxiv.org/abs/2312.05822>
+[8]: [William Wei Wang, Dongqi Han, Xufang Luo, Yifei Shen, Charles Ling, Boyu Wang, Dongsheng Li. Toward Open-ended Embodied Tasks Solving. Second Agent Learning in Open-Endedness Workshop, NeurIPS 2023.] (https://arxiv.org/abs/2312.05822)
