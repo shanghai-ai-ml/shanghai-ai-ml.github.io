@@ -21,10 +21,10 @@ We work on the interdisciplinary research between AI and the brain, with the goa
         <table>
     	    <tr>
         	    <td style="padding:5px">
-            	    <img src="/img/ai_brain/SeqSNN_overview.png" height="200">
+            	    <img src="/img/ai_brain/SeqSNN_overview.png" height="160">
           	    </td>
                 <td style="padding:5px">
-                	<img src="/img/ai_brain/SeqSNN_result_energy.png" height="200">
+                	<img src="/img/ai_brain/SeqSNN_result_energy.png" height="160">
                 </td>
             </tr>
         </table>
@@ -48,10 +48,10 @@ We work on the interdisciplinary research between AI and the brain, with the goa
         <table>
     	    <tr>
         	    <td style="padding:5px">
-            	    <img src="/img/ai_brain/CircuitNet_overview.png" height="150">
+            	    <img src="/img/ai_brain/CircuitNet_overview.png" height="130">
           	    </td>
                 <td style="padding:5px">
-                	<img src="/img/ai_brain/CircuitNet_ts_acc.png" height="150">
+                	<img src="/img/ai_brain/CircuitNet_ts_acc.png" height="130">
                 </td>
             </tr>
         </table>
@@ -62,10 +62,10 @@ We work on the interdisciplinary research between AI and the brain, with the goa
         <table>
     	    <tr>
         	    <td style="padding:5px">
-            	    <img src="/img/ai_brain/NC_figure_1.png" height="250">
+            	    <img src="/img/ai_brain/NC_figure_1.png" height="200">
           	    </td>
                 <td style="padding:5px">
-                	<img src="/img/ai_brain/NC_figure_2.png" height="250">
+                	<img src="/img/ai_brain/NC_figure_2.png" height="200">
                 </td>
             </tr>
         </table>
@@ -134,10 +134,10 @@ We work on the interdisciplinary research between AI and the brain, with the goa
         <table>
     	    <tr>
         	    <td style="padding:5px">
-            	    <img src="/img/ai_brain/DOG_1.png" height="200">
+            	    <img src="/img/ai_brain/DOG_1.png" height="180">
           	    </td>
                 <td style="padding:5px">
-                	<img src="/img/ai_brain/DOG_2.png" height="200">
+                	<img src="/img/ai_brain/DOG_2.png" height="180">
                 </td>
             </tr>
         </table>
