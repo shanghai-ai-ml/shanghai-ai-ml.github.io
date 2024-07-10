@@ -21,10 +21,10 @@ We work on the interdisciplinary research between AI and the brain, with the goa
         <table>
     	    <tr>
         	    <td style="padding:5px">
-            	    <img src="/img/ai_brain/SeqSNN_overview.png" height="150">
+            	    <img src="/img/ai_brain/SeqSNN_overview.png" height="200">
           	    </td>
                 <td style="padding:5px">
-                	<img src="/img/ai_brain/SeqSNN_result_energy.png" height="150">
+                	<img src="/img/ai_brain/SeqSNN_result_energy.png" height="200">
                 </td>
             </tr>
         </table>
@@ -48,10 +48,10 @@ We work on the interdisciplinary research between AI and the brain, with the goa
         <table>
     	    <tr>
         	    <td style="padding:5px">
-            	    <img src="/img/ai_brain/CircuitNet_overview.png" height="125">
+            	    <img src="/img/ai_brain/CircuitNet_overview.png" height="150">
           	    </td>
                 <td style="padding:5px">
-                	<img src="/img/ai_brain/CircuitNet_ts_acc.png" height="125">
+                	<img src="/img/ai_brain/CircuitNet_ts_acc.png" height="150">
                 </td>
             </tr>
         </table>
@@ -62,10 +62,10 @@ We work on the interdisciplinary research between AI and the brain, with the goa
         <table>
     	    <tr>
         	    <td style="padding:5px">
-            	    <img src="/img/ai_brain/NC_figure_1.png" height="200">
+            	    <img src="/img/ai_brain/NC_figure_1.png" height="300">
           	    </td>
                 <td style="padding:5px">
-                	<img src="/img/ai_brain/NC_figure_1.png" height="200">
+                	<img src="/img/ai_brain/NC_figure_1.png" height="300">
                 </td>
             </tr>
         </table>
@@ -96,13 +96,13 @@ We work on the interdisciplinary research between AI and the brain, with the goa
         <table>
     	    <tr>
         	    <td style="padding:5px">
-            	    <img src="/img/ai_brain/MMM_overview.png" height="125">
+            	    <img src="/img/ai_brain/MMM_overview.png" height="150">
           	    </td>
                 <td style="padding:5px">
-                	<img src="/img/ai_brain/MMM_result.png" height="125">
+                	<img src="/img/ai_brain/MMM_result.png" height="150">
                 </td>
                 <td style="padding:5px">
-                	<img src="/img/ai_brain/MMM_reconstruct.png" height="125">
+                	<img src="/img/ai_brain/MMM_reconstruct.png" height="150">
                 </td>
             </tr>
         </table>
@@ -113,13 +113,13 @@ We work on the interdisciplinary research between AI and the brain, with the goa
         <table>
     	    <tr>
         	    <td style="padding:5px">
-            	    <img src="/img/ai_brain/StateNet_motivation_1.png" height="125">
+            	    <img src="/img/ai_brain/StateNet_motivation_1.png" height="150">
           	    </td>
                 <td style="padding:5px">
-                	<img src="/img/ai_brain/StateNet_motivation_2.png" height="125">
+                	<img src="/img/ai_brain/StateNet_motivation_2.png" height="150">
                 </td>
                 <td style="padding:5px">
-                	<img src="/img/ai_brain/StateNet_result.png" height="125">
+                	<img src="/img/ai_brain/StateNet_result.png" height="150">
                 </td>
             </tr>
         </table>
@@ -134,14 +134,15 @@ We work on the interdisciplinary research between AI and the brain, with the goa
         <table>
     	    <tr>
         	    <td style="padding:5px">
-            	    <img src="/img/ai_brain/DOG_1.png" height="150">
+            	    <img src="/img/ai_brain/DOG_1.png" height="200">
           	    </td>
                 <td style="padding:5px">
-                	<img src="/img/ai_brain/DOG_2.png" height="150">
+                	<img src="/img/ai_brain/DOG_2.png" height="200">
                 </td>
             </tr>
         </table>
     </div>
+
 ## Reference
 
 [^1]: [Changze Lv, Yansen Wang, Dongqi Han, Xiaoqing Zheng, Xuanjing Huang, Dongsheng Li. Efficient and Effective Time-Series Forecasting with Spiking Neural Networks. ICML 2024.](https://arxiv.org/abs/2402.01533)
