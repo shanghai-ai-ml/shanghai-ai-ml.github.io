@@ -62,10 +62,10 @@ We work on the interdisciplinary research between AI and the brain, with the goa
         <table>
     	    <tr>
         	    <td style="padding:5px">
-            	    <img src="/img/ai_brain/NC_figure_1.png" height="300">
+            	    <img src="/img/ai_brain/NC_figure_1.png" height="250">
           	    </td>
                 <td style="padding:5px">
-                	<img src="/img/ai_brain/NC_figure_1.png" height="300">
+                	<img src="/img/ai_brain/NC_figure_2.png" height="250">
                 </td>
             </tr>
         </table>
