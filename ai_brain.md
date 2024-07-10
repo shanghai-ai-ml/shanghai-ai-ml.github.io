@@ -21,10 +21,10 @@ We work on the interdisciplinary research between AI and the brain, with the goa
         <table>
     	    <tr>
         	    <td style="padding:5px">
-            	    <img src="/img/ai_brain/SeqSNN_overview.png" height="100">
+            	    <img src="/img/ai_brain/SeqSNN_overview.png" height="150">
           	    </td>
                 <td style="padding:5px">
-                	<img src="/img/ai_brain/SeqSNN_result_energy.png" height="100">
+                	<img src="/img/ai_brain/SeqSNN_result_energy.png" height="150">
                 </td>
             </tr>
         </table>
@@ -34,10 +34,10 @@ We work on the interdisciplinary research between AI and the brain, with the goa
         <table>
     	    <tr>
         	    <td style="padding:5px">
-            	    <img src="/img/ai_brain/CPG.png" height="100">
+            	    <img src="/img/ai_brain/CPG.png" height="125">
           	    </td>
                 <td style="padding:5px">
-                	<img src="/img/ai_brain/CPG_SNN.png" height="100">
+                	<img src="/img/ai_brain/CPG_SNN.png" height="125">
                 </td>
             </tr>
         </table>
@@ -48,10 +48,10 @@ We work on the interdisciplinary research between AI and the brain, with the goa
         <table>
     	    <tr>
         	    <td style="padding:5px">
-            	    <img src="/img/ai_brain/CircuitNet_overview.png" height="100">
+            	    <img src="/img/ai_brain/CircuitNet_overview.png" height="125">
           	    </td>
                 <td style="padding:5px">
-                	<img src="/img/ai_brain/CircuitNet_ts_acc.png" height="100">
+                	<img src="/img/ai_brain/CircuitNet_ts_acc.png" height="125">
                 </td>
             </tr>
         </table>
@@ -62,10 +62,10 @@ We work on the interdisciplinary research between AI and the brain, with the goa
         <table>
     	    <tr>
         	    <td style="padding:5px">
-            	    <img src="/img/ai_brain/NC_figure_1.png" height="150">
+            	    <img src="/img/ai_brain/NC_figure_1.png" height="200">
           	    </td>
                 <td style="padding:5px">
-                	<img src="/img/ai_brain/NC_figure_1.png" height="150">
+                	<img src="/img/ai_brain/NC_figure_1.png" height="200">
                 </td>
             </tr>
         </table>
@@ -76,13 +76,13 @@ We work on the interdisciplinary research between AI and the brain, with the goa
         <table>
     	    <tr>
         	    <td style="padding:5px">
-            	    <img src="/img/ai_brain/DRLwD_overview.png" height="100">
+            	    <img src="/img/ai_brain/DRLwD_overview.png" height="125">
           	    </td>
                 <td style="padding:5px">
-                	<img src="/img/ai_brain/DRLwD_method.png" height="100">
+                	<img src="/img/ai_brain/DRLwD_method.png" height="125">
                 </td>
                 <td style="padding:5px">
-                	<img src="/img/ai_brain/DRLwD_result.png" height="100">
+                	<img src="/img/ai_brain/DRLwD_result.png" height="125">
                 </td>
             </tr>
         </table>
@@ -96,13 +96,13 @@ We work on the interdisciplinary research between AI and the brain, with the goa
         <table>
     	    <tr>
         	    <td style="padding:5px">
-            	    <img src="/img/ai_brain/MMM_overview.png" height="100">
+            	    <img src="/img/ai_brain/MMM_overview.png" height="125">
           	    </td>
                 <td style="padding:5px">
-                	<img src="/img/ai_brain/MMM_result.png" height="100">
+                	<img src="/img/ai_brain/MMM_result.png" height="125">
                 </td>
                 <td style="padding:5px">
-                	<img src="/img/ai_brain/MMM_reconstruct.png" height="100">
+                	<img src="/img/ai_brain/MMM_reconstruct.png" height="125">
                 </td>
             </tr>
         </table>
@@ -113,13 +113,13 @@ We work on the interdisciplinary research between AI and the brain, with the goa
         <table>
     	    <tr>
         	    <td style="padding:5px">
-            	    <img src="/img/ai_brain/StateNet_motivation_1.png" height="100">
+            	    <img src="/img/ai_brain/StateNet_motivation_1.png" height="125">
           	    </td>
                 <td style="padding:5px">
-                	<img src="/img/ai_brain/StateNet_motivation_2.png" height="100">
+                	<img src="/img/ai_brain/StateNet_motivation_2.png" height="125">
                 </td>
                 <td style="padding:5px">
-                	<img src="/img/ai_brain/StateNet_result.png" height="100">
+                	<img src="/img/ai_brain/StateNet_result.png" height="125">
                 </td>
             </tr>
         </table>
@@ -134,10 +134,10 @@ We work on the interdisciplinary research between AI and the brain, with the goa
         <table>
     	    <tr>
         	    <td style="padding:5px">
-            	    <img src="/img/ai_brain/DOG_1.png" height="100">
+            	    <img src="/img/ai_brain/DOG_1.png" height="150">
           	    </td>
                 <td style="padding:5px">
-                	<img src="/img/ai_brain/DOG_2.png" height="100">
+                	<img src="/img/ai_brain/DOG_2.png" height="150">
                 </td>
             </tr>
         </table>
