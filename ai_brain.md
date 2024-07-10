@@ -57,16 +57,16 @@ We work on the interdisciplinary research between AI and the brain, with the goa
         </p>
     </figure>
 
-    <div id="image-table">
+    <div id="image-table" align="center">
         <table>
     	    <tr>
-        	    <td style="padding:10px">
+        	    <td style="padding:5px">
             	    <img src="/img/ai_brain/DRLwD_overview.png" height="100">
           	    </td>
-                <td style="padding:10px">
+                <td style="padding:5px">
                 	<img src="/img/ai_brain/DRLwD_method.png" height="100">
                 </td>
-                <td style="padding:10px">
+                <td style="padding:5px">
                 	<img src="/img/ai_brain/DRLwD_result.png" height="100">
                 </td>
             </tr>
