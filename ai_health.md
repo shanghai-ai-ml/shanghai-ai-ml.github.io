@@ -28,13 +28,19 @@ Drug combinations can enhance therapeutic efficacy and reduce toxicity, playing 
 
 Searching for novel and diverse molecular candidates is a critical undertaking in drug discovery. Existing approaches have successfully adapted the diffusion model, the most effective generative model in image generation, to create 1D SMILES strings, 2D chemical graphs, or 3D molecular conformers. However, these methods are not efficient and flexible enough to generate 3D molecules with multiple desired properties, as they require additional training for the models for each new property or even a new combination of existing properties. In this work, we propose a training-free conditional 3D molecular generation algorithm based on off-the-shelf unconditional diffusion models and property prediction models. Our proposed model achieves superior performance in generating molecules that meet the conditions, without any additional training cost [Han et al., ICLR 2024][^3].
 
+<p align="center"><img src="./img/health/mudm.png" width = "500"></p>
+
 ### Medical Image Analysis
 
 We aim to develop effective pretraining and finetuning techniques for medical vision-language foundation models.
 
 Vision-Language Pre-training (VLP) has shown the merits of analysing medical images, by leveraging the semantic congruence between medical images and their corresponding reports. However, such observation is predominantly justified on single-modality data (mostly 2D images like X-rays), adapting VLP to learning unified representations for medical images in real scenario remains an open challenge. This arises from medical images often encompass a variety of modalities, especially modalities with different various number of dimensions (e.g., 3D images like Computed Tomography). To overcome the aforementioned challenges, we propose an Unified Medical Image Pre-training framework, namely UniMedI, which utilizes diagnostic reports as common semantic space to create unified representations for diverse modalities of medical images (especially for 2D and 3D images). UniMedI has demonstrated superior performance in downstream tasks, such as classification, segmentation, and retrieval, showcasing its effectiveness in establishing a universal medical visual representation [He et al., ECCV 2024][^4].
 
+<p align="center"><img src="./img/health/unimedi.png" width = "500"></p>
+
 Visual task adaptation has been demonstrated to be effective in adapting pre-trained Vision Transformers (ViTs) to general downstream visual tasks using specialized learnable layers or tokens. However, there is yet a large-scale benchmark to fully explore the effect of visual task adaptation on the realistic and important medical domain, particularly across diverse medical visual modalities, such as color images, X-ray, and CT. To close this gap, we present Med-VTAB, a large-scale Medical Visual Task Adaptation Benchmark consisting of 1.68 million medical images for diverse organs, modalities, and adaptation approaches. Based on Med-VTAB, we explore the scaling law of medical prompt tuning concerning tunable parameters and the generalizability of medical visual adaptation using non-medical/medical pre-train weights. Besides, we study the impact of patient ID out-of-distribution on medical visual adaptation, which is a real and challenging scenario. Furthermore, results from Med-VTAB indicate that a single pre-trained model falls short in medical task adaptation. Therefore, we introduce GMoE-Adapter, a novel method that combines medical and general pre-training weights through a gated mixture-of-experts adapter, achieving state-of-the-art results in medical visual task adaptation [Mo et al., arXiv 2024][^5].
+
+<p align="center"><img src="./img/health/med_vtab.png" width = "500"></p>
 
 ## What's New
 
