@@ -30,7 +30,7 @@ The source code of this project can be found by [https://github.com/microsoft/JA
 
 ## Reference
 If you find this work useful in your method, you can cite the paper as below:
-
+>
     @inproceedings{shen2023hugginggpt,
       author = {Shen, Yongliang and Song, Kaitao and Tan, Xu and Li, Dongsheng and Lu, Weiming and Zhuang, Yueting},
       booktitle = {Advances in Neural Information Processing Systems},
