@@ -4,6 +4,8 @@ title: AI + Brain
 description: This page introduces our research works about AI and Brain.
 ---
 
+## Overview
+
 We work on the interdisciplinary research between AI and the brain, with the goal of using AI to enhance our understanding of the brain and applying these insights to improve both AI and brain health.
 
 
@@ -13,7 +15,7 @@ We work on the interdisciplinary research between AI and the brain, with the goa
     </p>
 </figure>
 
-## Brain-inspired AI
+### Brain-inspired AI
 
 - **Spiking neural networks**: We aim to make the performance of spiking neural networks to be competitive to their ANN counterparts.
   - we proposed a framework for SNNs in time-series forecasting tasks, leveraging the efficiency of spiking neurons in processing temporal information, which can achieve comparable or superior results to traditional time-series forecasting methods on diverse benchmarks with much less energy consumption [Lv et al., ICML 2024][^1].
@@ -88,7 +90,7 @@ We work on the interdisciplinary research between AI and the brain, with the goa
         </table>
     </div>
 
-## Brain-computer Interface
+### Brain-computer Interface
 
 - **EEG Signal Processing**: We develop pretraining techniques for EEG signals, aiming to better understand EEG signals from large-scale unlabeled data.
   - We proposed one of earliest EEG foundation model, which can consistently improve the performance of EEG-related downstream tasks. To break boundaries between different EEG resources and facilitate cross-dataset EEG pre-training, we propose to map all kinds of channel selections to a unified topology. We further introduce MMM, a pre-training framework with Multi-dimensional position encoding, Multi-level channel hierarchy, and Multi-stage pre-training strategy built on the unified topology to obtain topology-agnostic representations [Yi et al., NeurIPS 2023][^6].
@@ -127,7 +129,7 @@ We work on the interdisciplinary research between AI and the brain, with the goa
 - **The PhysioPro Project**: PhysioPro is a deep learning framework for physiological data processing and understanding, which contains most of our EEG related work <https://github.com/microsoft/PhysioPro>.
 > **_NOTE:_** This code base should not be used in clinical settings.
 
-## Embodied AI
+### Embodied AI
 
 - **Open-ended Tasks Solving**: A major challenge in embodied agents is task open-endedness. In practice, robots often need to perform tasks with novel goals that are multifaceted, dynamic, lack a definitive "end-state", and were not encountered during training. To tackle this problem, this paper introduces *Diffusion for Open-ended Goals* (DOG), a novel framework designed to enable embodied AI to plan and act flexibly and dynamically for open-ended task goals [Wang et al., NeurIPS Workshop 2023][^8].
     <div id="image-table" align="center">
@@ -142,6 +144,9 @@ We work on the interdisciplinary research between AI and the brain, with the goa
             </tr>
         </table>
     </div>
+
+## What's New
+
 
 ## Reference
 
