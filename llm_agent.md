@@ -11,10 +11,21 @@ In this project, we leverage natural Language as an interface for LLMs to connec
 + **Task Execution**: Invokes and executes each selected model, and return the results to ChatGPT.
 + **Response Generation**: Finally, using ChatGPT to integrate the prediction of all models, and generate responses.
 
-<p align="center"><img src="./image/agent/overview.jpg" width = "400"></p>
+<p align="center"><img src="./img/agent/overview.jpg" width = "500"></p>
 
 ## Open-source Project
 The source code of this project can be found by [https://github.com/microsoft/JARVIS](https://github.com/microsoft/JARVIS). The mission of JARVIS is to explore artificial general intelligence (AGI) and deliver cutting-edge research to the whole community.
+
+## What's New
+
++  [2024.01.15] We release Easytool for easier tool usage.
+   + The code and datasets are available at [EasyTool](https://github.com/microsoft/JARVIS/tree/main/easytool).
+   + The paper is available at [EasyTool: Enhancing LLM-based Agents with Concise Tool Instruction](https://arxiv.org/abs/2401.06201).
++  [2023.11.30] We release TaskBench for evaluating task automation capability of LLMs.
+   + The code and datasets are avaliable at [TaskBench](https://github.com/microsoft/JARVIS/tree/main/taskbench).
+   + The paper is avaliable at [TaskBench: Benchmarking Large Language Models for Task Automation](https://arxiv.org/abs/2311.18760).
++  [2023.07.24] We released a light langchain version of Jarvis. See <a href="https://github.com/langchain-ai/langchain/tree/master/libs/experimental/langchain_experimental/autonomous_agents/hugginggpt">here</a>.
++  [2023.04.16] Jarvis now supports the OpenAI service on the Azure platform and the GPT-4 model.
 
 
 ## Reference
