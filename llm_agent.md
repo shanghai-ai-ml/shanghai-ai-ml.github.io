@@ -1,6 +1,6 @@
 ---
 layout: page
-title: LLM Agent
+title: AI+Agent
 description: This page introduces our research works about LLM-based Agents.
 ---
 
