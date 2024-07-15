@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Knowledge Discovery
+title: AI + Knowledge
 description: This page introduces our research works about AI and Knowledge Discovery.
 ---
 
