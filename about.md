@@ -9,7 +9,7 @@ The MSRA Shanghai AI/ML Group focuses on machine learning and its applications. 
 
 <figure>
     <p align="center">
-        <img src="/img/overview.png" width="600">
+        <img src="/img/overview.png" width="800">
     </p>
 </figure>
 
