@@ -1,8 +1,4 @@
----
-layout: page
-title: About Us
-description: This page introduces the research directions of our group.
----
+
 ## About
 
 The MSRA Shanghai AI/ML Group focuses on machine learning and its applications. More specifically, we are interested to the following directions.
