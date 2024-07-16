@@ -7,6 +7,14 @@ description: This page lists all of our publications.
 ### 2024
 
 <ul style="padding-left:10px">
+					<!-- MM 2024 -->
+					<li><a href="https://arxiv.org/abs/2405.06342">
+					Compression-Realized Deep Structural Network for Video Quality Enhancement 
+					</a>
+                        <br>Hanchi Sun, Xiaohong Liu, Xinyang Jiang, Yifei Shen, Dongsheng Li, Xiongkuo Min, Guangtao Zhai.
+                        <br>The 32nd ACM Multimedia Conference <a>(MM)</a>. 2024 
+                        <br />
+                    </li>
 					<!-- ECCV 2024 -->
 					<li><a href="https://arxiv.org/pdf/2311.13616">
 					Online Video Quality Enhancement with Spatial-Temporal Look-up Tables 
