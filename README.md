@@ -1,6 +1,12 @@
 
 ## About
 
+<p align="center">
+  <img src="./img/pictures/a.jpg" alt="office" width="570" style="margin-right: 1px;">
+  <img src="./img/pictures/b.png" alt="view from inside" width="610" style="margin-right: 1px;">
+  <img src="./img/pictures/c.jpg" alt="view from outside" width="426">
+</p>
+
 The MSRA Shanghai AI/ML Group focuses on machine learning and its applications. More specifically, we are interested to the following directions.
 
 ### AI and brain
