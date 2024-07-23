@@ -7,6 +7,14 @@ description: This page lists all of our publications.
 ### 2024
 
 <ul style="padding-left:10px">
+	<!-- CIKM 2024 -->
+					<li><a href="https://arxiv.org/abs/2403.12641">
+					Automated Contrastive Learning Strategy Search for Time Series 
+					</a>
+                        <br>Baoyu Jing, Yansen Wang, Guoxin Sui, Jing Hong, Jingrui He, Yuqing Yang, Dongsheng Li, Kan Ren.
+                        <br>The 33rd ACM International Conference on Information and Knowledge Management <a>(CIKM)</a>. 2024 
+                        <br />
+                    </li>
 					<!-- MM 2024 -->
 					<li><a href="https://arxiv.org/abs/2405.06342">
 					Compression-Realized Deep Structural Network for Video Quality Enhancement 
