@@ -6,7 +6,15 @@ description: This page lists all of our publications.
 
 ### 2024
 
+    
 <ul style="padding-left:10px">
+	<!-- Nature Communications-->		
+	<li><a href="https://www.nature.com/articles/s41467-024-51980-9.pdf">
+					AI-powered omics-based drug pair discovery for pyroptosis therapy targeting triple-negative breast cancer</a>
+                        <br>Boshu Ouyang, Caihua Shan, Shun Shen, Xinnan Dai, Qingwang Chen, Xiaomin Su, Yongbin Cao, Xifeng Qin, Ying He, Siyu Wang, Ruizhe Xu, Ruining Hu, Leming Shi, Tun Lu, Wuli Yang, Shaojun Peng, Jun Zhang, Jianxin Wang, Dongsheng Li & Zhiqing Pang.
+                        <br><em style="color:red">Nature Communications</em>. 2024
+                        <br />
+                    </li>
 	<!-- CIKM 2024 -->
 					<li><a href="https://arxiv.org/abs/2403.12641">
 					Automated Contrastive Learning Strategy Search for Time Series 
