@@ -8,6 +8,63 @@ description: This page lists all of our publications.
 
     
 <ul style="padding-left:10px">
+	<!-- NeurIPS 2024 -->
+					<li><a href="https://openreview.net/pdf?id=Eu80DGuOcs">
+					Understanding and Improving Training-free Loss-based Diffusion Guidance
+					</a>
+                        <br>Yifei Shen, XINYANG JIANG, Yifan Yang, Yezhen Wang, Dongqi Han, Dongsheng Li.
+                        <br>The Thirty-eighth Conference on Neural Information Processing Systems <a>(NeurIPS)</a>. 2024
+                        <br />
+                    </li>
+					<li><a href="https://openreview.net/pdf?id=bmoS6Ggw4j">
+					Can Graph Learning Improve Task Planning?
+					</a>
+                        <br>Xixi Wu, Yifei Shen, Caihua Shan, Kaitao Song, Hong Cheng, Siwei Wang, Wei Chen, Jiarui Feng, Bohang Zhang, Yun Xiong, Dongsheng Li.
+                        <br>The Thirty-eighth Conference on Neural Information Processing Systems <a>(NeurIPS)</a>. 2024
+                        <br />
+                    </li>
+					<li><a href="https://openreview.net/pdf?id=kQMyiDWbOG">
+					Advancing Spiking Neural Networks for Sequential Modeling through Central Pattern Generators
+					</a>
+                        <br>Changze Lv, Dongqi Han, Yansen Wang, Xiaoqing Zheng, Xuanjing Huang, Dongsheng Li.
+                        <br>The Thirty-eighth Conference on Neural Information Processing Systems <a>(NeurIPS)</a>. 2024 (Spotlight)
+                        <br />
+                    </li>
+					<li><a href="https://openreview.net/pdf?id=RfsfRn9OFd">
+					EEG2Video: Towards Decoding Dynamic Visual Perception from EEG Signals
+					</a>
+                        <br>Xuanhao Liu, Yan-Kai Liu, Yansen Wang, Kan Ren, Hanwen Shi, Zilong Wang, Dongsheng Li, Bao-liang Lu, Wei-Long Zheng.
+                        <br>The Thirty-eighth Conference on Neural Information Processing Systems <a>(NeurIPS)</a>. 2024
+                        <br />
+                    </li>
+					<li><a href="https://openreview.net/pdf?id=qu5NTwZtxA">
+					Towards Editing Time Series
+					</a>
+                        <br>Baoyu Jing, Shuqi Gu, Tianyu Chen, Zhiyu Yang, Dongsheng Li, Jingrui He, Kan Ren.
+                        <br>The Thirty-eighth Conference on Neural Information Processing Systems <a>(NeurIPS)</a>. 2024
+                        <br />
+                    </li>
+					<li><a href="https://openreview.net/pdf?id=manHbkpIW6">
+					Once Read is Enough: Finetuning-free Language Models with Cluster-guided Sparse Experts for Long-tail Domain Knowledge
+					</a>
+                        <br>Fang Dong, Mengyi Chen, Jixian Zhou, Yubin Shi, Yixuan Chen, Mingzhi Dong, Yujiang Wang, Dongsheng Li, Xiaochen Yang, Rui Zhu, Robert P. Dick, Qin Lv, Fan Yang, Tun Lu, Ning Gu, Li Shang.
+                        <br>The Thirty-eighth Conference on Neural Information Processing Systems <a>(NeurIPS)</a>. 2024
+                        <br />
+                    </li>
+					<li><a href="https://openreview.net/pdf?id=fPBACAbqSN">
+					MInference: Accelerating Pre-filling for Long-Context LLMs via Dynamic Sparse Attention
+					</a>
+                        <br>Huiqiang Jiang, YUCHENG LI, Chengruidong Zhang, Qianhui Wu, Xufang Luo, Surin Ahn, Zhenhua Han, Amir H. Abdi, Dongsheng Li, Chin-Yew Lin, Yuqing Yang, Lili Qiu.
+                        <br>The Thirty-eighth Conference on Neural Information Processing Systems <a>(NeurIPS)</a>. 2024 (Spotlight)
+                        <br />
+                    </li>
+					<li><a href="https://openreview.net/pdf?id=bAxUA5r3Ss">
+					TaskBench: Benchmarking Large Language Models for Task Automation
+					</a>
+                        <br>Yongliang Shen, Kaitao Song, Xu Tan, Wenqi Zhang, Kan Ren, Siyu Yuan, Weiming Lu, Dongsheng Li, Yueting Zhuang.
+                        <br>The Thirty-eighth Conference on Neural Information Processing Systems <a>(NeurIPS)</a>. 2024
+                        <br />
+                    </li>
 	<!-- Nature Communications-->		
 	<li><a href="https://www.nature.com/articles/s41467-024-51980-9.pdf">
 					AI-powered omics-based drug pair discovery for pyroptosis therapy targeting triple-negative breast cancer</a>
