@@ -31,7 +31,7 @@ We work on the interdisciplinary research between AI and the brain, with the goa
             </tr>
         </table>
     </div>
-  - We proposed a novel position encoding (PE) technique for SNNs, termed CPG-PE, by drawing inspiration from the central pattern generators (CPGs) in the human brain, which produce rhythmic patterned outputs without requiring rhythmic inputs. Extensive experiments across various domains, including time-series forecasting, natural language processing, and image classification, show that SNNs with CPG-PE outperform their conventional counterparts [Lv et al., arXiv 2024][^2].
+  - We proposed a novel position encoding (PE) technique for SNNs, termed CPG-PE, by drawing inspiration from the central pattern generators (CPGs) in the human brain, which produce rhythmic patterned outputs without requiring rhythmic inputs. Extensive experiments across various domains, including time-series forecasting, natural language processing, and image classification, show that SNNs with CPG-PE outperform their conventional counterparts [Lv et al., NeurIPS 2024][^2].
     <div id="image-table" align="center">
         <table>
     	    <tr>
@@ -109,6 +109,8 @@ We work on the interdisciplinary research between AI and the brain, with the goa
             </tr>
         </table>
     </div>
+
+  - We proposed NeuroLM, the first multi-task foundation model that leverages the capabilities of Large Language Models (LLMs) by regarding EEG signals as a foreign language, endowing the model with multi-task learning and inference capabilities. The largest variant NeuroLM-XL has record-breaking 1.7B parameters for EEG signal processing, and is pre-trained on a large-scale corpus comprising approximately 25,000-hour EEG data. When evaluated on six diverse downstream datasets, NeuroLM showcases the huge potential of this multi-task learning paradigm [Jiang et al., arXiv 2024][^9].
 - **EEG-based Applications**: We improve the performance of EEG-based BCI applications by combing EEG foundation models and advanced machine learning techniques.
   - We improve the performance of neonatal seizure detection by proposing a deep learning framework, namely STATENet, to address the exclusive challenges with exquisite designs at the temporal, spatial and model levels. The experiments over the real-world large-scale neonatal EEG dataset illustrate that our framework achieves significantly better seizure detection performance [Li et al., SMC 2023][^7].
     <div id="image-table" align="center">
@@ -152,16 +154,18 @@ We work on the interdisciplinary research between AI and the brain, with the goa
 
 [^1]: [Changze Lv, Yansen Wang, Dongqi Han, Xiaoqing Zheng, Xuanjing Huang, Dongsheng Li. Efficient and Effective Time-Series Forecasting with Spiking Neural Networks. ICML 2024.](https://arxiv.org/abs/2402.01533)
 
-[^2]: [Changze Lv, Dongqi Han, Yansen Wang, Xiaoqing Zheng, Xuanjing Huang, Dongsheng Li. Advancing Spiking Neural Networks for Sequential Modeling with Central Pattern Generators. arXiv 2024.](https://arxiv.org/abs/2405.14362)
+[^2]: [Changze Lv, Dongqi Han, Yansen Wang, Xiaoqing Zheng, Xuanjing Huang, Dongsheng Li. Advancing Spiking Neural Networks for Sequential Modeling with Central Pattern Generators. NeurIPS 2024. (Spotlight)](https://arxiv.org/abs/2405.14362)
 
 [^3]: [Yansen Wang, Xinyang Jiang, Kan Ren, Caihua Shan, Xufang Luo, Dongqi Han, Kaitao Song, Yifei Shen, Dongsheng Li. CircuitNet: A Generic Neural Network to Realize Universal Circuit Motif Modeling. ICML 2023.](https://proceedings.mlr.press/v202/wang23k.html)
 
 [^4]: [Dongqi Han, Kenji Doya, Dongsheng Li, Jun Tani. Synergizing habits and goals with variational Bayes. Nature Communications, volume 15, Article number: 4461 (2024).](https://www.nature.com/articles/s41467-024-48577-7)
 
-[^5]: [Wei Wang, Dongqi Han, Xufang Luo, Dongsheng Li. Addressing Signal Delay in Deep Reinforcement Learning. ICLR 2024 spotlight.](https://openreview.net/forum?id=Z8UfDs4J46)
+[^5]: [Wei Wang, Dongqi Han, Xufang Luo, Dongsheng Li. Addressing Signal Delay in Deep Reinforcement Learning. ICLR 2024. (Spotlight)](https://openreview.net/forum?id=Z8UfDs4J46)
 
 [^6]: [Ke Yi, Yansen Wang, Kan Ren, Dongsheng Li. Learning Topology-Agnostic EEG Representations with Geometry-Aware Modeling. NeurIPS 2023.](https://proceedings.neurips.cc/paper_files/paper/2023/hash/a8c893712cb7858e49631fb03c941f8d-Abstract-Conference.html)
 
 [^7]: [Ziyue Li, Yuchen Fang, You Li, Kan Ren, Yansen Wang, Xufang Luo, Juanyong Duan, Congrui Huang, Dongsheng Li, Lili Qiu. Protecting the Future: Neonatal Seizure Detection with Spatial-Temporal Modeling. IEEE SMC 2023.](https://arxiv.org/abs/2307.05382)
 
 [^8]: [William Wei Wang, Dongqi Han, Xufang Luo, Yifei Shen, Charles Ling, Boyu Wang, Dongsheng Li. Toward Open-ended Embodied Tasks Solving. Second Agent Learning in Open-Endedness Workshop, NeurIPS 2023.](https://arxiv.org/abs/2312.05822)
+
+[^9]: [Wei-Bang Jiang, Yansen Wang, Bao-Liang Lu, Dongsheng Li. NeuroLM: A Universal Multi-task Foundation Model for Bridging the Gap between Language and EEG Signals, arXiv:2409.00101 2024.](https://arxiv.org/abs/2409.00101)
