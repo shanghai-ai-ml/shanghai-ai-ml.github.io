@@ -115,10 +115,10 @@ We work on the interdisciplinary research between AI and the brain, with the goa
         <table>
     	    <tr>
         	    <td style="padding:5px">
-            	    <img src="/img/ai_brain/NeuroLM_model.png" height="150">
+            	    <img src="/img/ai_brain/NeuroLM_model.png" height="200">
           	    </td>
                 <td style="padding:5px">
-                	<img src="/img/ai_brain/NeuroLM_result.png" height="150">
+                	<img src="/img/ai_brain/NeuroLM_result.png" height="200">
                 </td>
             </tr>
         </table>
