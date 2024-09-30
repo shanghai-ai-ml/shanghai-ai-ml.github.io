@@ -111,6 +111,18 @@ We work on the interdisciplinary research between AI and the brain, with the goa
     </div>
 
   - We proposed NeuroLM, the first multi-task foundation model that leverages the capabilities of Large Language Models (LLMs) by regarding EEG signals as a foreign language, endowing the model with multi-task learning and inference capabilities. The largest variant NeuroLM-XL has record-breaking 1.7B parameters for EEG signal processing, and is pre-trained on a large-scale corpus comprising approximately 25,000-hour EEG data. When evaluated on six diverse downstream datasets, NeuroLM showcases the huge potential of this multi-task learning paradigm [Jiang et al., arXiv 2024][^9].
+    <div id="image-table" align="center">
+        <table>
+    	    <tr>
+        	    <td style="padding:5px">
+            	    <img src="/img/ai_brain/NeuroLM_model.png" height="150">
+          	    </td>
+                <td style="padding:5px">
+                	<img src="/img/ai_brain/NeuroLM_result.png" height="150">
+                </td>
+            </tr>
+        </table>
+    </div>
 - **EEG-based Applications**: We improve the performance of EEG-based BCI applications by combing EEG foundation models and advanced machine learning techniques.
   - We improve the performance of neonatal seizure detection by proposing a deep learning framework, namely STATENet, to address the exclusive challenges with exquisite designs at the temporal, spatial and model levels. The experiments over the real-world large-scale neonatal EEG dataset illustrate that our framework achieves significantly better seizure detection performance [Li et al., SMC 2023][^7].
     <div id="image-table" align="center">
