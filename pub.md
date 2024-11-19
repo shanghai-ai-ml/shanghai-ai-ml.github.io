@@ -17,7 +17,7 @@ description: This page lists all of our publications.
                         <br />
                     </li>
 					<li><a href="https://openreview.net/pdf?id=bmoS6Ggw4j">
-					Can Graph Learning Improve Task Planning?
+					Can Graph Learning Improve Planning in LLM-based Agents?
 					</a>
                         <br>Xixi Wu, Yifei Shen, Caihua Shan, Kaitao Song, Hong Cheng, Siwei Wang, Wei Chen, Jiarui Feng, Bohang Zhang, Yun Xiong, Dongsheng Li.
                         <br>The Thirty-eighth Conference on Neural Information Processing Systems <a>(NeurIPS)</a>. 2024
