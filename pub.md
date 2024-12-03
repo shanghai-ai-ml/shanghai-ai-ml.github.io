@@ -8,6 +8,14 @@ description: This page lists all of our publications.
 
     
 <ul style="padding-left:10px">
+	<!-- npj parkinson's disease -->
+					<li><a href="https://www.nature.com/articles/s41531-024-00832-w.pdf">
+					Personalized progression modelling and prediction in Parkinson’s disease with a novel multi-modal graph approach</a>
+                        <br>Jie Lian, Xufang Luo, Caihua Shan, Dongqi Han, Chencheng Zhang, Varut Vardhanabhuti, Dongsheng Li, Lili Qiu.
+                        <br>npj Parkinson's Disease. 2024
+                        <br />
+                    </li>
+	
 	<!-- NeurIPS 2024 -->
 					<li><a href="https://openreview.net/pdf?id=Eu80DGuOcs">
 					Understanding and Improving Training-free Loss-based Diffusion Guidance
