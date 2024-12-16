@@ -12,7 +12,7 @@ description: This page lists all of our publications.
 	<li><a href="https://www.nature.com/articles/s41531-024-00832-w.pdf">
 					Personalized progression modelling and prediction in Parkinson’s disease with a novel multi-modal graph approach</a>
                         <br>Jie Lian, Xufang Luo, Caihua Shan, Dongqi Han, Chencheng Zhang, Varut Vardhanabhuti, Dongsheng Li, Lili Qiu.
-                        <br>npj Parkinsons Disease<a></a>. 2024
+                        <br>npj Parkinson's Disease<a></a>. 2024
                         <br/>
 	</li>
 	<!-- NeurIPS 2024 -->
