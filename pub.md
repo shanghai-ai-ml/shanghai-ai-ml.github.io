@@ -8,6 +8,14 @@ description: This page lists all of our publications.
 
     
 <ul style="padding-left:10px">
+	<!-- ICASSP 2025 -->
+					<li><a href="https://arxiv.org/pdf/2409.16816">
+					Translating Mental Imaginations into Characters with Codebooks and Dynamics-Enhanced Decoding
+					</a>
+                        <br>Jingyuan Li, Yansen Wang, Nie Lin, Dongsheng Li.
+                        <br>2025 IEEE International Conference on Acoustics, Speech and Signal Processing <a>(ICASSP)</a>. 2025
+                        <br />
+                    </li>
 	<!-- npj parkinson's disease -->
 	<li><a href="https://www.nature.com/articles/s41531-024-00832-w.pdf">
 					Personalized progression modelling and prediction in Parkinson’s disease with a novel multi-modal graph approach</a>
