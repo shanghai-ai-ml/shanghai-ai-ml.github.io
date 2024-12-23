@@ -67,7 +67,7 @@ description: This page lists all of our publications.
                         <br />
                     </li>
 					<li><a href="https://openreview.net/pdf?id=fPBACAbqSN">
-					MInference: Accelerating Pre-filling for Long-Context LLMs via Dynamic Sparse Attention
+					MInference 1.0: Accelerating Pre-filling for Long-Context LLMs via Dynamic Sparse Attention
 					</a>
                         <br>Huiqiang Jiang, YUCHENG LI, Chengruidong Zhang, Qianhui Wu, Xufang Luo, Surin Ahn, Zhenhua Han, Amir H. Abdi, Dongsheng Li, Chin-Yew Lin, Yuqing Yang, Lili Qiu.
                         <br>The Thirty-eighth Conference on Neural Information Processing Systems <a>(NeurIPS)</a>. 2024 (Spotlight)
