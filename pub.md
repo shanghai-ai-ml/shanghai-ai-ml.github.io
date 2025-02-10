@@ -5,6 +5,23 @@ description: This page lists all of our publications.
 ---
 ### 2025
 <ul style="padding-left:10px">
+<!-- NAACL 2025 -->
+<li><a href="https://openreview.net/pdf?id=B9pxstB1tB">
+					EASYTOOL: Enhancing LLM-based Agents with Concise Tool Instruction
+					</a>
+                        <br>Siyu Yuan, Kaitao Song, Jiangjie Chen, Xu Tan, Yongliang Shen, Kan Ren, Dongsheng Li, Deqing Yang.
+                        <br>The 2025 Annual Conference of the Nations of the Americas Chapter of the ACL <a>(NAACL)</a>. 2025
+                        <br />
+</li>
+<!-- NAACL 2025 -->
+<li><a href="https://openreview.net/pdf?id=QPRpTAxPJM">
+					EvoAgent: Towards Automatic Multi-Agent Generation via Evolutionary Algorithms
+					</a>
+                        <br>Siyu Yuan, Kaitao Song, Jiangjie Chen, Xu Tan, Dongsheng Li, Deqing Yang.
+                        <br>The 2025 Annual Conference of the Nations of the Americas Chapter of the ACL <a>(NAACL)</a>. 2025
+                        <br />
+</li>
+	
 <!-- ICLR 2025 -->
 <li><a href="https://openreview.net/pdf?id=CkKEuLmRnr">
 					How Do Large Language Models Understand Graph Patterns? A Benchmark for Graph Pattern Comprehension
