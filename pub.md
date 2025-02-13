@@ -62,7 +62,7 @@ description: This page lists all of our publications.
 					What Makes a Good Diffusion Planner for Decision Making?
 					</a>
                         <br>Haofei Lu, Dongqi Han, Yifei Shen, Dongsheng Li.
-                        <br>The Thirteenth International Conference on Learning Representations <a>(ICLR)</a>. 2025
+                        <br>The Thirteenth International Conference on Learning Representations <a>(ICLR)</a>. 2025 (Spotlight)
                         <br />
                     </li>
 					<li><a href="https://openreview.net/pdf?id=oQoQ4u6MQC">
