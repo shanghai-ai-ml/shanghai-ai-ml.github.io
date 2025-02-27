@@ -5,6 +5,22 @@ description: This page lists all of our publications.
 ---
 ### 2025
 <ul style="padding-left:10px">
+<!-- CVPR 2025 -->
+					<li><a href="https://openreview.net/pdf?id=Xk4ruacBjo">
+					Mitigating Hallucinations in Large Vision-Language Models via DPO: On-Policy Data Hold the Key
+					</a>
+                        <br>Zhihe Yang, Xufang Luo, Dongqi Han, Yunjian Xu, Dongsheng Li.
+                        <br>The 2025 Conference on Computer Vision and Pattern Recognition <a>(CVPR)</a>. 2025
+                        <br />
+ </li>
+<!-- CVPR 2025 -->
+					<li><a href="https://openreview.net/pdf?id=YDtYyUjn3G">
+					Adversarial Domain Prompt Tuning and Generation for Single Domain Generalization
+					</a>
+                        <br>Zhipeng Xu, De Cheng, XINYANG JIANG, Nannan Wang, Dongsheng Li, Xinbo Gao.
+                        <br>The 2025 Conference on Computer Vision and Pattern Recognition <a>(CVPR)</a>. 2025
+                        <br />
+</li>
 <!-- NAACL 2025 -->
 <li><a href="https://openreview.net/pdf?id=B9pxstB1tB">
 					EASYTOOL: Enhancing LLM-based Agents with Concise Tool Instruction
