@@ -159,7 +159,37 @@ We work on the interdisciplinary research between AI and the brain, with the goa
         </table>
     </div>
 
-## What's New
+- **More Effective Diffusion Planner**: In this work, we address this issue through systematic empirical experiments on diffusion planning in an offline reinforcement learning (RL) setting, providing practical insights into the essential components of diffusion planning. We trained and evaluated over 6,000 diffusion models, identifying the critical components such as guided sampling, network architecture, action generation and planning strategy. We revealed that some design choices opposite to the common practice in previous work in diffusion planning actually lead to better performance, e.g., unconditional sampling with selection can be better than guided sampling and Transformer outperforms U-Net as denoising network. Based on these insights, we suggest a simple yet strong diffusion planning baseline that achieves state-of-the-art results on standard offline RL benchmarks [Lu et al., ICLR 2025 (Spotlight)][^10].
+
+    <div id="image-table" align="center">
+        <table>
+    	    <tr>
+        	    <td style="padding:5px">
+            	    <img src="/img/ai_brain/dv_overview.png" height="180">
+          	    </td>
+                <td style="padding:5px">
+                	<img src="/img/ai_brain/dv_result.png" height="180">
+                </td>
+            </tr>
+        </table>
+    </div>
+
+- **More Effecient Generative Planner**: Diffusion models have shown great promise in decision-making, also known as diffusion planning. However, the slow inference speeds limit their potential for broader real-world applications. Here, we introduce Habi, a general framework that transforms powerful but slow diffusion planning models into fast decision-making models, which mimics the cognitive process in the brain that costly goal-directed behavior gradually transitions to efficient habitual behavior with repetitive practice. Even using a laptop CPU, the habitized model can achieve an average 800+ Hz decision-making frequency (faster than previous diffusion planners by orders of magnitude) on standard offline reinforcement learning benchmarks D4RL, while maintaining comparable or even higher performance compared to its corresponding diffusion planner. [Lu et al., arXiv 2025][^11].
+
+    <div id="image-table" align="center">
+        <table>
+    	    <tr>
+        	    <td style="padding:5px">
+            	    <img src="/img/ai_brain/habi_overview.png" height="180">
+          	    </td>
+                <td style="padding:5px">
+                	<img src="/img/ai_brain/habi_result.png" height="180">
+                </td>
+            </tr>
+        </table>
+    </div>
+
+
 
 
 ## Reference
@@ -181,3 +211,7 @@ We work on the interdisciplinary research between AI and the brain, with the goa
 [^8]: [William Wei Wang, Dongqi Han, Xufang Luo, Yifei Shen, Charles Ling, Boyu Wang, Dongsheng Li. Toward Open-ended Embodied Tasks Solving. Second Agent Learning in Open-Endedness Workshop, NeurIPS 2023.](https://arxiv.org/abs/2312.05822)
 
 [^9]: [Wei-Bang Jiang, Yansen Wang, Bao-Liang Lu, Dongsheng Li. NeuroLM: A Universal Multi-task Foundation Model for Bridging the Gap between Language and EEG Signals, arXiv:2409.00101 2024.](https://arxiv.org/abs/2409.00101)
+
+[^10]: [Haofei Lu, Dongqi Han, Yifei Shen, Dongsheng Li. What Makes a Good Diffusion Planner for Decision Making? ICLR 2025 (Spotlight)](https://openreview.net/forum?id=7BQkXXM8Fy)
+
+[^11]: [Haofei Lu, Yifei Shen, Dongsheng Li, Junliang Xing, Dongqi Han. Habitizing Diffusion Planning for Efficient and Effective Decision Making. arXiv:2502.06401](https://arxiv.org/abs/2502.06401)
