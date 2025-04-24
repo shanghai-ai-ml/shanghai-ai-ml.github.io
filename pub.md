@@ -10,7 +10,7 @@ description: This page lists all of our publications.
 					Mitigating Hallucinations in Large Vision-Language Models via DPO: On-Policy Data Hold the Key
 					</a>
                         <br>Zhihe Yang, Xufang Luo, Dongqi Han, Yunjian Xu, Dongsheng Li.
-                        <br>The 2025 Conference on Computer Vision and Pattern Recognition <a>(CVPR)</a>. 2025
+                        <br>The 2025 Conference on Computer Vision and Pattern Recognition <a>(CVPR)</a>. 2025 (oral)
                         <br />
  </li>
 <!-- CVPR 2025 -->
