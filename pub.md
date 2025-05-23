@@ -13,13 +13,6 @@ description: This page lists all of our publications.
                         <br>The Forty-second International Conference on Machine Learning <a>(ICML)</a>. 2025 
                         <br />
                     </li>
-					<li><a href="https://openreview.net/pdf?id=wn6WHREK9k">
-					Oracle-MoE: Locality-preserving Routing in the Oracle Space for Memory-constrained Large Lanuge Model Inference
-					</a>
-                        <br>Jixian Zhou, Fang Dong, Ruijun Huang, Hengjie Cao, Mengyi Chen, Yifeng Yang, Anrui Chen, Mingzhi Dong, Yujiang Wang, Dongsheng Li, David A. Clifton, Qin Lv, Rui Zhu, Chun Zhang, Fan Yang, Li Shang.
-                        <br>The Forty-second International Conference on Machine Learning <a>(ICML)</a>. 2025 
-                        <br />
-                    </li>
 					<li><a href="https://openreview.net/pdf?id=me6PfbATWM">
 					MAPSparse: Accelerating Pre-filling for Long-Context Visual Language Models via Modality-Aware Permutation Sparse Attention
 					</a>
