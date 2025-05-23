@@ -5,6 +5,28 @@ description: This page lists all of our publications.
 ---
 ### 2025
 <ul style="padding-left:10px">
+<!-- ICML 2025 -->
+					<li><a href="https://arxiv.org/abs/2502.06401">
+					Habitizing Diffusion Planning for Efficient and Effective Decision Making
+					</a>
+                        <br>Haofei Lu, Yifei Shen, Dongsheng Li, Junliang Xing, Dongqi Han.
+                        <br>The Forty-second International Conference on Machine Learning <a>(ICML)</a>. 2025 
+                        <br />
+                    </li>
+					<li><a href="https://openreview.net/pdf?id=wn6WHREK9k">
+					Oracle-MoE: Locality-preserving Routing in the Oracle Space for Memory-constrained Large Lanuge Model Inference
+					</a>
+                        <br>Jixian Zhou, Fang Dong, Ruijun Huang, Hengjie Cao, Mengyi Chen, Yifeng Yang, Anrui Chen, Mingzhi Dong, Yujiang Wang, Dongsheng Li, David A. Clifton, Qin Lv, Rui Zhu, Chun Zhang, Fan Yang, Li Shang.
+                        <br>The Forty-second International Conference on Machine Learning <a>(ICML)</a>. 2025 
+                        <br />
+                    </li>
+					<li><a href="https://openreview.net/pdf?id=me6PfbATWM">
+					MAPSparse: Accelerating Pre-filling for Long-Context Visual Language Models via Modality-Aware Permutation Sparse Attention
+					</a>
+                        <br>Yucheng Li, Huiqiang Jiang, Chengruidong Zhang, Qianhui Wu, Xufang Luo, Surin Ahn, Amir H. Abdi, Dongsheng Li, Jianfeng Gao, Yuqing Yang, Lili Qiu.
+                        <br>The Forty-second International Conference on Machine Learning <a>(ICML)</a>. 2025 
+                        <br />
+                    </li>
 <!-- CVPR 2025 -->
 					<li><a href="https://openreview.net/pdf?id=Xk4ruacBjo">
 					Mitigating Hallucinations in Large Vision-Language Models via DPO: On-Policy Data Hold the Key
