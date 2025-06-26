@@ -5,6 +5,14 @@ description: This page lists all of our publications.
 ---
 ### 2025
 <ul style="padding-left:10px">
+<!-- ICCV 2025 -->
+					<li><a href="https://arxiv.org/abs/2503.07523">
+					VisRL: Intention-Driven Visual Perception via Reinforced Reasoning
+					</a>
+                        <br>Zhangquan Chen, Xufang Luo, Dongsheng Li.
+                        <br>The 2025 International Conference on Computer Vision <a>(ICCV)</a>. 2025 
+                        <br />
+                    </li>
 <!-- ICML 2025 -->
 					<li><a href="https://arxiv.org/abs/2502.06401">
 					Habitizing Diffusion Planning for Efficient and Effective Decision Making
