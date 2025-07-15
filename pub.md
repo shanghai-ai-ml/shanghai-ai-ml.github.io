@@ -5,14 +5,29 @@ description: This page lists all of our publications.
 ---
 ### 2025
 <ul style="padding-left:10px">
+<!-- Nature Communications -->
+<li><a href="https://www.biorxiv.org/content/10.1101/2024.12.11.628077v1.full">
+					Causal disentanglement for single-cell representations and controllable counterfactual generation</a>
+                        <br>Yicheng Gao, Kejing Dong, Caihua Shan, Dongsheng Li, Qi Liu.
+                        <br><em style="color:red">Nature Communications</em>. 2025 (Accepted)
+                        <br />
+</li>
+					
+<!-- Cell Biomaterials -->
+<li><a href="https://www.sciencedirect.com/science/article/pii/S3050562325001217">
+					Lab-in-the-loop Machine Learning for Brain-Targeting Delivery System Design</a>
+                        <br>Qiujun Qiu, Shiyi Li, Jixian Zhang, Jixiang Chen, Xinyi Ding, Shengyao Liu, Jianyong Sheng, Zhiqing Pang, Ru Zhang, Anni Wang, Meichen Dong, Meng Zhang, Miaomiao Zhang, Tun Lu, Ning Gu, Shuigeng Zhou, Defang Ouyang, Dongsheng Li, Shuangjia Zheng, Jianxin Wang.
+                        <br><em style="color:red">Cell Biomaterials</em>. 2025
+                        <br />
+</li>
 <!-- ICCV 2025 -->
-					<li><a href="https://arxiv.org/abs/2503.07523">
+		<li><a href="https://arxiv.org/abs/2503.07523">
 					VisRL: Intention-Driven Visual Perception via Reinforced Reasoning
 					</a>
                         <br>Zhangquan Chen, Xufang Luo, Dongsheng Li.
                         <br>The 2025 International Conference on Computer Vision <a>(ICCV)</a>. 2025 
                         <br />
-                    </li>
+                </li>
 <!-- ICML 2025 -->
 					<li><a href="https://arxiv.org/abs/2502.06401">
 					Habitizing Diffusion Planning for Efficient and Effective Decision Making
