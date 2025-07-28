@@ -9,7 +9,7 @@ description: This page lists all of our publications.
 <li><a href="https://www.biorxiv.org/content/10.1101/2024.12.11.628077v1.full">
 					Causal disentanglement for single-cell representations and controllable counterfactual generation</a>
                         <br>Yicheng Gao, Kejing Dong, Caihua Shan, Dongsheng Li, Qi Liu.
-                        <br><em style="color:red">Nature Communications</em>. 2025 (Accepted)
+                        <br><em style="color:red">Nature Communications</em>. 2025
                         <br />
 </li>
 					
