@@ -3,8 +3,75 @@ layout: page
 title: Publication
 description: This page lists all of our publications.
 ---
+
+
+	
+### 2026
+<ul style="padding-left:10px">
+<!-- AAAI 2026 -->
+<li><a href="https://openreview.net/pdf?id=IUMprDq14f">
+						Improving Long-Context Summarization with Multi-Granularity Retrieval Optimization
+					</a>
+                        <br>Xueyu Chen, Kaitao Song, Zifan Song, Dongsheng Li, Cairong Zhao.
+                        <br>The Fortieth AAAI Conference on Artificial Intelligence <a>(AAAI)</a>. 2026
+                        <br />
+</li>
+</ul>
+
 ### 2025
 <ul style="padding-left:10px">
+<!-- NeurIPS 2025 -->
+<li><a href="https://openreview.net/pdf?id=MDWJlTWZHH">
+						Toward Relative Positional Encoding in Spiking Transformers
+					</a>
+                        <br>Changze Lv, Yansen Wang, Dongqi Han, Yifei Shen, Xiaoqing Zheng, Xuanjing Huang, Dongsheng Li.
+                        <br>The Thirty-ninth Conference on Neural Information Processing Systems <a>(NeurIPS)</a>. 2025 (Spotlight)
+                        <br />
+</li>
+<li><a href="https://openreview.net/pdf?id=sbmYVM4zRr">
+					Chain-of-Model Learning for Language Model
+					</a>
+                        <br>Xiaohua Wang, Kaitao Song, Xu Tan, Huiqiang Jiang, Chengruidong Zhang, Yongliang Shen, Cen LU, Zihao Li, Zifan Song, Caihua Shan, Yansen Wang, Kan Ren, Xiaoqing Zheng, Tao Qin, Yuqing Yang, Dongsheng Li, Lili Qiu.
+                        <br>The Thirty-ninth Conference on Neural Information Processing Systems <a>(NeurIPS)</a>. 2025
+                        <br />
+</li>
+<li><a href="https://openreview.net/pdf?id=DBybUx7ARy">
+					Accelerating Block Coordinate Descent for LLM Finetuning via Landscape Expansion
+					</a>
+                        <br>Qijun Luo, Yifei Shen, Liangzu Peng, Dongsheng Li, Xiao Li.
+                        <br>The Thirty-ninth Conference on Neural Information Processing Systems <a>(NeurIPS)</a>. 2025
+                        <br />
+</li>
+<li><a href="https://openreview.net/pdf?id=NQSWkmjODD">
+						Learning to Instruct for Visual Instruction Tuning
+					</a>
+                        <br>Zhihan Zhou, Feng Hong, Jiaan Luo, Yushi Ye, Jiangchao Yao, Dongsheng Li, Bo Han, Ya Zhang, Yanfeng Wang.
+                        <br>The Thirty-ninth Conference on Neural Information Processing Systems <a>(NeurIPS)</a>. 2025
+                        <br />
+</li>
+<li><a href="https://openreview.net/pdf?id=IwjkwtkPGb">
+					SimSort: A Data-Driven Framework for Spike Sorting by Large-Scale Electrophysiology Simulation
+					</a>
+                        <br>Yimu Zhang, Dongqi Han, Yansen Wang, Zhenning Lv, Yu Gu, Dongsheng Li.
+                        <br>The Thirty-ninth Conference on Neural Information Processing Systems <a>(NeurIPS)</a>. 2025
+                        <br />
+</li>
+<li><a href="https://openreview.net/pdf?id=qfP6IDxOrA">
+					Omni-DNA: A Genomic Model Supporting Sequence Understanding, Long-context, and Textual Annotation
+					</a>
+                        <br>Zehui Li, Vallijah Subasri, Yifei Shen, Dongsheng Li, Wentao Gu, Guy-Bart Stan, Yiren Zhao, Caihua Shan.
+                        <br>The Thirty-ninth Conference on Neural Information Processing Systems <a>(NeurIPS)</a>. 2025
+                        <br />
+</li>
+<!-- TPAMI 2025 -->
+<li><a href="https://placeholder.cn">
+					EA-HAS-Bench and Language-Enhanced Shrinkage Search for Energy-aware NAS
+					</a>
+                        <br>Cairong Zhao, Shuguang Dou, Jiale Zhao, Xinyang Jiang, Junyao Gao, Yuge Zhang, Bo Li, Dongsheng Li.
+                        <br>IEEE Transactions on Pattern Analysis and Machine Intelligence <a>(TPAMI)</a>. 2025
+                        <br />
+</li>
+
 <!-- Nature Communications -->
 <li><a href="https://www.biorxiv.org/content/10.1101/2024.12.11.628077v1.full">
 					Causal disentanglement for single-cell representations and controllable counterfactual generation</a>
