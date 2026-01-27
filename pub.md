@@ -8,6 +8,70 @@ description: This page lists all of our publications.
 	
 ### 2026
 <ul style="padding-left:10px">
+<!-- ICLR 2026 -->
+					<li><a href="https://openreview.net/pdf?id=NHP2Y8IVMU">
+						Exploring Interpretability for Visual Prompt Tuning with Cross-layer Concepts
+					</a>
+                        <br>Yubin Wang, XINYANG JIANG, De Cheng, Xiangqian Zhao, Zilong Wang, Dongsheng Li, Cairong Zhao.
+                        <br>The Fourteenth International Conference on Learning Representations <a>(ICLR)</a>. 2026
+                        <br />
+                    </li>
+                    <li><a href="https://openreview.net/pdf?id=ROEwZAxqyS">
+						Trade in Minutes! Rationality-Driven Agentic System for Quantitative Financial Trading
+					</a>
+                        <br>Zifan Song, Kaitao Song, Guosheng Hu, Ding Qi, Junyao Gao, Xiaohua Wang, Dongsheng Li, Cairong Zhao.
+                        <br>The Fourteenth International Conference on Learning Representations <a>(ICLR)</a>. 2026
+                        <br />
+                    </li>
+                    <li><a href="https://openreview.net/pdf?id=gPTjQxC74G">
+						Joint Adaptation of Uni-modal Foundation Models for Multi-modal Alzheimer's Disease Diagnosis
+					</a>
+                        <br>Wentao Gu, Yuquan Li, XINYANG JIANG, Zilong Wang, Dongsheng Li, Zehui Li, Zijian Dong, Cairong Zhao.
+                        <br>The Fourteenth International Conference on Learning Representations <a>(ICLR)</a>. 2026
+                        <br />
+                    </li>
+                    <li><a href="https://openreview.net/pdf?id=6ZietpbPoB">
+						Online Pseudo-Zeroth-Order Training of Neuromorphic Spiking Neural Networks
+					</a>
+                        <br>Mingqing Xiao, Qingyan Meng, Zongpeng Zhang, Di He, Dongsheng Li, Zhouchen Lin.
+                        <br>The Fourteenth International Conference on Learning Representations <a>(ICLR)</a>. 2026
+                        <br />
+                    </li>
+                    <li><a href="https://openreview.net/pdf?id=DGcoJINQ7P">
+						EgoBrain: Synergizing Minds and Eyes For Human Action Understanding
+					</a>
+                        <br>Nie Lin, Yansen Wang, Dongqi Han, Weibang Jiang, Jingyuan Li, Ryosuke Furuta, Yoichi Sato, Dongsheng Li.
+                        <br>The Fourteenth International Conference on Learning Representations <a>(ICLR)</a>. 2026
+                        <br />
+                    </li>
+                    <li><a href="https://openreview.net/pdf?id=UOzxviKVFO">
+						Exploratory Memory-Augmented LLM Agent via Hybrid On- and Off-Policy Optimization
+					</a>
+                        <br>Zeyuan Liu, Jeonghye Kim, Xufang Luo, Dongsheng Li, Yuqing Yang.
+                        <br>The Fourteenth International Conference on Learning Representations <a>(ICLR)</a>. 2026
+                        <br />
+                    </li>
+                    <li><a href="https://openreview.net/pdf?id=psJiUopUt7">
+						Reasoning-Driven Multimodal LLM for Domain Generalization
+					</a>
+                        <br>Zhipeng Xu, Zilong Wang, XINYANG JIANG, Dongsheng Li, De Cheng, Nannan Wang.
+                        <br>The Fourteenth International Conference on Learning Representations <a>(ICLR)</a>. 2026
+                        <br />
+                    </li>
+                    <li><a href="https://openreview.net/pdf?id=FOnAdLo0tM">
+						Do Not Let Low-Probability Tokens Over-Dominate in RL for LLMs
+					</a>
+                        <br>Zhihe Yang, Xufang Luo, Zilong Wang, Dongqi Han, Zhiyuan He, Dongsheng Li, Yunjian Xu.
+                        <br>The Fourteenth International Conference on Learning Representations <a>(ICLR)</a>. 2026
+                        <br />
+                    </li>
+                    <li><a href="https://openreview.net/pdf?id=wSGle6ag5I">
+						Improving Diffusion Models for Class-imbalanced Training Data via Capacity Manipulation
+					</a>
+                        <br>Feng Hong, Jiangchao Yao, Yifei Shen, Dongsheng Li, Ya Zhang, Yanfeng Wang.
+                        <br>The Fourteenth International Conference on Learning Representations <a>(ICLR)</a>. 2026
+                        <br />
+                    </li>
 <!-- AAAI 2026 -->
 <li><a href="https://openreview.net/pdf?id=IUMprDq14f">
 						Improving Long-Context Summarization with Multi-Granularity Retrieval Optimization
