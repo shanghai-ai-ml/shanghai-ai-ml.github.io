@@ -8,6 +8,20 @@ description: This page lists all of our publications.
 	
 ### 2026
 <ul style="padding-left:10px">
+					<li><a href="https://arxiv.org/abs/2507.02288">
+						Prompt Disentanglement via Language Guidance and Representation Alignment for Domain Generalization
+					</a>
+                        <br>De Cheng, Zhipeng Xu, Xinyang Jiang, Dongsheng Li, Nannan Wang, Xinbo Gao.
+                        <br>IEEE Transactions on Pattern Analysis and Machine Intelligence <a>(TPAMI)</a>. 2026
+                        <br />
+                    </li>
+                    <li><a href="https://arxiv.org/abs/2408.06622">
+						ActPrompt: In-Domain Feature Adaptation via Action Cues for Video Temporal Grounding
+					</a>
+                        <br>Yubin Wang, Xinyang Jiang, De Cheng, Dongsheng Li, Cairong Zhao.
+                        <br>IEEE Transactions on Image Processing <a>(TIP)</a>. 2026
+                        <br />
+                    </li>
 <!-- ICLR 2026 -->
 					<li><a href="https://openreview.net/pdf?id=NHP2Y8IVMU">
 						Exploring Interpretability for Visual Prompt Tuning with Cross-layer Concepts
