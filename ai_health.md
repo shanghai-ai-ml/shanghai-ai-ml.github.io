@@ -2,6 +2,8 @@
 layout: page
 title: AI+Health
 description: This page introduces our research works about AI and Health.
+lang: en
+alternate_url: /zh/ai-health/
 ---
 
 ## Overview
@@ -30,6 +32,10 @@ Searching for novel and diverse molecular candidates is a critical undertaking i
 
 <p align="center"><img src="./img/health/mudm.png" width = "500"></p>
 
+### AI for Biology and Therapeutics
+
+Our recent work expands from molecular generation to biological representation learning and experimental design. We disentangle causal factors in single-cell representations to support controllable counterfactual generation [Gao et al., Nature Communications 2025][^7]. The lab-in-the-loop framework connects machine-learning predictions with wet-lab feedback to design brain-targeting delivery systems [Qiu et al., Cell Biomaterials 2025][^8]. At the foundation-model level, Omni-DNA jointly supports genomic sequence understanding, long-context modeling, and textual annotation [Li et al., NeurIPS 2025][^9].
+
 ### Medical Image Analysis
 
 We aim to develop effective pretraining and finetuning techniques for medical vision-language foundation models.
@@ -42,7 +48,13 @@ Visual task adaptation has been demonstrated to be effective in adapting pre-tra
 
 <p align="center"><img src="./img/health/med_vtab.png" width = "500"></p>
 
-## What's New
+### Precision Diagnosis and Trustworthy Clinical AI
+
+For neurological diagnosis, we jointly adapt uni-modal foundation models to integrate multimodal evidence for Alzheimer's disease [Gu et al., ICLR 2026][^10], and inject collaborative meta knowledge to handle cross-center heterogeneity in dementia etiology diagnosis [Du et al., TMI 2026][^11]. For precision oncology, a disease-centric vision-language foundation model combines pathological visual evidence and domain knowledge for kidney-cancer analysis [Tao et al., Nature Communications 2026][^12]. We also study clinical AI reliability, showing how the forgetfulness of medical records can create algorithmic unfairness and how that risk can be mitigated [Chen et al., Nature Communications 2026][^13].
+
+### Clinical Computer-Use Agents
+
+Clinical workflows increasingly require agents to operate existing software rather than only predict labels. MedCUA-Bench evaluates screenshot-only computer-use agents on clinical tasks, providing a benchmark for visual interaction, long-horizon execution, and safety-critical workflow evaluation [Yu et al., EMNLP 2026 Findings][^14].
 
 ## Reference
 
@@ -57,3 +69,19 @@ Visual task adaptation has been demonstrated to be effective in adapting pre-tra
 [^5]: [Shentong Mo, Xufang Luo, Yansen Wang, Dongsheng Li. A Large-scale Medical Visual Task Adaptation Benchmark. arXiv 2024.](https://arxiv.org/abs/2404.12876)
 
 [^6]: [Ouyang, B., Shan, C., Shen, S. et al. AI-powered omics-based drug pair discovery for pyroptosis therapy targeting triple-negative breast cancer. Nat Commun 15, 7560 (2024).](https://www.nature.com/articles/s41467-024-51980-9)
+
+[^7]: [Yicheng Gao, Kejing Dong, Caihua Shan, Dongsheng Li, Qi Liu. Causal disentanglement for single-cell representations and controllable counterfactual generation. Nature Communications. 2025.](https://www.nature.com/articles/s41467-025-62008-1)
+
+[^8]: [Qiujun Qiu, Shiyi Li, Jixian Zhang, Jixiang Chen, Xinyi Ding, Shengyao Liu, Jianyong Sheng, Zhiqing Pang, Ru Zhang, Anni Wang, Meichen Dong, Meng Zhang, Miaomiao Zhang, Tun Lu, Ning Gu, Shuigeng Zhou, Defang Ouyang, Dongsheng Li, Shuangjia Zheng, Jianxin Wang. Lab-in-the-loop Machine Learning for Brain-Targeting Delivery System Design. Cell Biomaterials. 2025.](https://www.sciencedirect.com/science/article/pii/S3050562325001217)
+
+[^9]: [Zehui Li, Vallijah Subasri, Yifei Shen, Dongsheng Li, Wentao Gu, Guy-Bart Stan, Yiren Zhao, Caihua Shan. Omni-DNA: A Genomic Model Supporting Sequence Understanding, Long-context, and Textual Annotation. NeurIPS 2025.](https://openreview.net/forum?id=qfP6IDxOrA)
+
+[^10]: [Wentao Gu, Yuquan Li, Xinyang Jiang, Zilong Wang, Dongsheng Li, Zehui Li, Zijian Dong, Cairong Zhao. Joint Adaptation of Uni-modal Foundation Models for Multi-modal Alzheimer's Disease Diagnosis. ICLR 2026.](https://openreview.net/forum?id=gPTjQxC74G)
+
+[^11]: [Siyuan Du, Mengxi Chen, Xinyang Jiang, Zilong Wang, Jiangchao Yao, Dongsheng Li, Ya Zhang, Lili Qiu, Yanfeng Wang. Dementia Etiology Diagnosis via Collaborative Meta Knowledge Enhancement. IEEE Transactions on Medical Imaging. 2026.](https://arxiv.org/abs/2607.22770)
+
+[^12]: [Yuhui Tao, Zhongwei Zhao, Zilong Wang, Xufang Luo, Feng Chen, Kang Wang, Chuanfu Wu, Xue Zhang, Shaoting Zhang, Jiaxi Yao, Xingwei Jin, Xinyang Jiang, Yifan Yang, Dongsheng Li, Lili Qiu, Zhiqiang Shao, Jianming Guo, Nengwang Yu, Ying Xiong, Shuo Wang. A disease-centric vision-language foundation model for precision oncology in kidney cancer. Nature Communications. 2026.](https://www.nature.com/articles/s41467-026-74175-w)
+
+[^13]: [Yixuan Chen, Anshul Thakur, Andrew A. S. Soltan, Yifei Shen, Dongsheng Li, Mingzhi Dong, Li Shang, David A. Clifton, Yujiang Wang. Mitigating algorithmic unfairness arising from forgetfulness of medical records in clinical artificial intelligence. Nature Communications. 2026.](https://www.nature.com/articles/s41467-026-72601-7)
+
+[^14]: [Jia Yu, Zilong Wang, Xinyang Jiang, Dongsheng Li, Shuo Wang. MedCUA-Bench: A Screenshot-Only Benchmark for Clinical Computer-Use Agents. EMNLP 2026 Findings.](https://openreview.net/forum?id=gC1m98w7cq)

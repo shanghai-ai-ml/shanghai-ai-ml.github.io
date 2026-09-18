@@ -1,7 +1,8 @@
 # Site settings
 title: MSRA Shanghai AI/ML Group
 description: "Introduction of the research and news of MSRA Shanghai AI/ML Group."
-url: "https://shanghai-ai-ml.github.io"
+url: "https://ai-ml.cn"
+lang: en
 author:
   name: "MSRA Shanghai AI/ML Group"
   email: "dongsli@microsoft.com"
@@ -26,7 +27,7 @@ defaults:
       layout: "post"
 
 # Plugins
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-sitemap
 

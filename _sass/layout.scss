@@ -42,11 +42,18 @@
 #nav-links {
   @media (max-width: 940px) {
     display:none;
-  }   
+  }
+  font-size: 0.88em;
+  white-space: nowrap;
   a {
-    padding-left: 10px;
+    padding-left: 8px;
     color: $text-color;
     font-weight: 300
+  }
+
+  .language-switch {
+    border-left: 1px solid rgba(0,0,0,0.2);
+    margin-left: 8px;
   }
 }
 
@@ -214,6 +221,11 @@ code {
   background-color: lighten($background-color, 35%);
 }
 
+pre {
+  max-width: 100%;
+  overflow-x: auto;
+}
+
 /* Set the vertical rhythm (and padding-left) for lists inside post content */
 
 .content ul, .content ol {
@@ -228,6 +240,10 @@ code {
 
 #page ul, #page ol {
   padding-left: 1.5em;
+}
+
+#page a, .content a {
+  overflow-wrap: anywhere;
 }
 
 /* Paginator */

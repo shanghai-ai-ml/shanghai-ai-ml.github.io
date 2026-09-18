@@ -1,0 +1,20 @@
+{% assign current_lang = page.lang | default: site.lang %}
+{% if current_lang == "zh-CN" %}
+  <a href="/zh/">首页</a>
+  <a href="/zh/about/">关于我们</a>
+  <a href="/zh/ai-brain/">AI+脑科学</a>
+  <a href="/zh/ai-health/">AI+医疗健康</a>
+  <a href="/zh/ai-knowledge/">AI+知识发现</a>
+  <a href="/zh/ai-agent/">AI+智能体</a>
+  <a href="/zh/publications/">论文发表</a>
+  <a class="language-switch" href="{{ page.alternate_url | default: '/' }}" lang="en" hreflang="en">English</a>
+{% else %}
+  <a href="/">Home</a>
+  <a href="/about">About Us</a>
+  <a href="/ai_brain">AI+Brain</a>
+  <a href="/ai_health">AI+Health</a>
+  <a href="/ai_knowledge">AI+Knowledge</a>
+  <a href="/llm_agent">AI+Agent</a>
+  <a href="/pub">Publication</a>
+  <a class="language-switch" href="{{ page.alternate_url | default: '/zh/' }}" lang="zh-CN" hreflang="zh-CN">中文</a>
+{% endif %}

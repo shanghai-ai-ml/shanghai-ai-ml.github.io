@@ -1,1 +1,2 @@
-<footer><span>@2024 - MSRA Shanghai AI/ML Group</span></footer>
+{% assign current_lang = page.lang | default: site.lang %}
+<footer><span>&copy; {{ site.time | date: '%Y' }} - {% if current_lang == 'zh-CN' %}MSRA 上海 AI/ML 组{% else %}MSRA Shanghai AI/ML Group{% endif %}</span></footer>

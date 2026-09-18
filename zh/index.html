@@ -1,0 +1,21 @@
+---
+layout: default
+title: 首页
+description: MSRA 上海 AI/ML 组的研究动态。
+lang: zh-CN
+alternate_url: /
+permalink: /zh/
+---
+<ul id="posts">
+
+  {% for post in site.posts %}
+
+    <li class="post">
+      <h2><a href="{{ post.alternate_url | default: post.url }}">{% if post.title_zh %}{{ post.title_zh }}{% elsif post.header %}{{ post.header }}{% else %}{{ post.title }}{% endif %}</a></h2>
+      <time datetime="{{ post.date | date_to_xmlschema }}" class="by-line"><i>{{ post.date | date: "%Y年%m月%d日" }}</i></time>
+      <p>{% if post.excerpt_zh %}{{ post.excerpt_zh }}{% else %}{{ post.content | strip_html | truncatewords: 50 }}{% endif %}</p>
+    </li>
+
+  {% endfor %}
+
+</ul>

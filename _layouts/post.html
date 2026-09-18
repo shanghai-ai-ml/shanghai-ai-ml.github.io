@@ -3,7 +3,7 @@ layout: default
 ---
 <article id="post-page">
 	<h2>{%if page.header %}{{ page.header }}{% else %}{{ page.title }}{% endif %}</h2>		
-	<time datetime="{{ page.date | date_to_xmlschema }}" class="by-line">{{ page.date | date_to_string }}</time>
+	<time datetime="{{ page.date | date_to_xmlschema }}" class="by-line">{% if page.lang == "zh-CN" %}{{ page.date | date: "%Y年%m月%d日" }}{% else %}{{ page.date | date_to_string }}{% endif %}</time>
 	<div class="content">
 
 		{{ content }}

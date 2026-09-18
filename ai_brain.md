@@ -2,6 +2,8 @@
 layout: page
 title: AI+Brain
 description: This page introduces our research works about AI and Brain.
+lang: en
+alternate_url: /zh/ai-brain/
 ---
 
 ## Overview
@@ -189,8 +191,19 @@ We work on the interdisciplinary research between AI and the brain, with the goa
         </table>
     </div>
 
+## Recent Research (2025-2026)
 
+### Neuromorphic and Brain-inspired Learning
 
+Our recent work studies how temporal structure, neural dynamics, and biological synchronization can improve artificial neural networks. We introduced relative positional encoding for spiking Transformers [Lv et al., NeurIPS 2025 Spotlight][^12] and an online pseudo-zeroth-order method for training neuromorphic spiking networks without conventional backpropagation [Xiao et al., ICLR 2026][^13]. Beyond spiking models, KoPE uses Kuramoto oscillatory synchronization to improve the training, parameter, and data efficiency of vision models [Xiao et al., ICML 2026][^14]. We also investigate architectural mechanisms that preserve plasticity in continual learning [Koeppe et al., ICML 2026][^15] and stabilized supralinear networks that switch neural coding strategies to balance cost and performance [Wang et al., ICML 2026][^16].
+
+### Neural Data and Human-centered Understanding
+
+We connect computational models with neural and behavioral data. SimSort builds a data-driven spike-sorting framework from large-scale electrophysiology simulation [Zhang et al., NeurIPS 2025][^17]. EgoBrain jointly models first-person visual observations and cognitive signals for human action understanding [Lin et al., ICLR 2026][^18].
+
+### Adaptive Decision Making
+
+Building on our diffusion-planning research, we use self-supervised action gating with energy functions to improve the action quality and efficiency of diffusion planners [Lu et al., ICML 2026][^19]. This line of work connects flexible goal-directed planning with efficient adaptive behavior.
 
 ## Reference
 
@@ -215,3 +228,19 @@ We work on the interdisciplinary research between AI and the brain, with the goa
 [^10]: [Haofei Lu, Dongqi Han, Yifei Shen, Dongsheng Li. What Makes a Good Diffusion Planner for Decision Making? ICLR 2025 (Spotlight)](https://openreview.net/forum?id=7BQkXXM8Fy)
 
 [^11]: [Haofei Lu, Yifei Shen, Dongsheng Li, Junliang Xing, Dongqi Han. Habitizing Diffusion Planning for Efficient and Effective Decision Making. arXiv:2502.06401](https://arxiv.org/abs/2502.06401)
+
+[^12]: [Changze Lv, Yansen Wang, Dongqi Han, Yifei Shen, Xiaoqing Zheng, Xuanjing Huang, Dongsheng Li. Toward Relative Positional Encoding in Spiking Transformers. NeurIPS 2025. (Spotlight)](https://openreview.net/forum?id=MDWJlTWZHH)
+
+[^13]: [Mingqing Xiao, Qingyan Meng, Zongpeng Zhang, Di He, Dongsheng Li, Zhouchen Lin. Online Pseudo-Zeroth-Order Training of Neuromorphic Spiking Neural Networks. ICLR 2026.](https://openreview.net/forum?id=6ZietpbPoB)
+
+[^14]: [Mingqing Xiao, Yansen Wang, Dongqi Han, Caihua Shan, Dongsheng Li. Kuramoto Oscillatory Phase Encoding: Neuro-inspired Synchronization for Improved Learning Efficiency. ICML 2026.](https://openreview.net/forum?id=1rSqVUl7l3)
+
+[^15]: [Niklas Koeppe, Luiz Felipe Vecchietti, Dongqi Han, Dongsheng Li, Sang Wan Lee. Mitigating Plasticity Loss through Architectural Design in Continual Learning. ICML 2026.](https://openreview.net/forum?id=pAhGjPOlwy)
+
+[^16]: [Haoyu Albert Wang, Wei P. Dai, Jialun Ma, Jiawei Zhang, Jinqi Liu, Mingchen Jiang, Mingqing Xiao, Yansen Wang, Dongqi Han, Dongsheng Li, Yuguo Yu. Stabilized Supralinear Networks Learn to Switch Coding Strategies Balancing Cost and Performance. ICML 2026.](https://openreview.net/forum?id=fPX6A4us61)
+
+[^17]: [Yimu Zhang, Dongqi Han, Yansen Wang, Zhenning Lv, Yu Gu, Dongsheng Li. SimSort: A Data-Driven Framework for Spike Sorting by Large-Scale Electrophysiology Simulation. NeurIPS 2025.](https://openreview.net/forum?id=IwjkwtkPGb)
+
+[^18]: [Nie Lin, Yansen Wang, Dongqi Han, Weibang Jiang, Jingyuan Li, Ryosuke Furuta, Yoichi Sato, Dongsheng Li. EgoBrain: Synergizing Minds and Eyes For Human Action Understanding. ICLR 2026.](https://openreview.net/forum?id=DGcoJINQ7P)
+
+[^19]: [Yuan Lu, Dongqi Han, Yansen Wang, Dongsheng Li. Improving Diffusion Planners by Self-Supervised Action Gating with Energies. ICML 2026.](https://openreview.net/forum?id=tLW4Tc7Zn9)

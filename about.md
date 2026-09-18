@@ -2,6 +2,8 @@
 layout: page
 title: About Us
 description: This page introduces the research directions of our group.
+lang: en
+alternate_url: /zh/about/
 ---
 ## About
 

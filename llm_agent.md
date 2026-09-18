@@ -2,6 +2,8 @@
 layout: page
 title: AI+Agent
 description: This page introduces our research works about LLM-based Agents.
+lang: en
+alternate_url: /zh/ai-agent/
 ---
 
 ## Overview
@@ -16,16 +18,25 @@ In this project, we leverage natural Language as an interface for LLMs to connec
 ## Open-source Project
 The source code of this project can be found by [https://github.com/microsoft/JARVIS](https://github.com/microsoft/JARVIS). The mission of JARVIS is to explore artificial general intelligence (AGI) and deliver cutting-edge research to the whole community.
 
-## What's New
+## Research Themes
 
-+  [2024.01.15] We release Easytool for easier tool usage.
-   + The code and datasets are available at [EasyTool](https://github.com/microsoft/JARVIS/tree/main/easytool).
-   + The paper is available at [EasyTool: Enhancing LLM-based Agents with Concise Tool Instruction](https://arxiv.org/abs/2401.06201).
-+  [2023.11.30] We release TaskBench for evaluating task automation capability of LLMs.
-   + The code and datasets are avaliable at [TaskBench](https://github.com/microsoft/JARVIS/tree/main/taskbench).
-   + The paper is avaliable at [TaskBench: Benchmarking Large Language Models for Task Automation](https://arxiv.org/abs/2311.18760).
-+  [2023.07.24] We released a light langchain version of Jarvis. See <a href="https://github.com/langchain-ai/langchain/tree/master/libs/experimental/langchain_experimental/autonomous_agents/hugginggpt">here</a>.
-+  [2023.04.16] Jarvis now supports the OpenAI service on the Azure platform and the GPT-4 model.
+### Tool Use and Task Automation
+
+[HuggingGPT](https://arxiv.org/abs/2303.17580) established an LLM-controller architecture that plans tasks, selects expert models, executes them, and integrates their results. [TaskBench](https://arxiv.org/abs/2311.18760) provides a large-scale benchmark for task automation and planning, while [EasyTool](https://arxiv.org/abs/2401.06201) compresses verbose tool documentation into concise instructions that are easier for agents to understand and use. The corresponding code and datasets are maintained in [JARVIS](https://github.com/microsoft/JARVIS), including its [EasyTool](https://github.com/microsoft/JARVIS/tree/main/easytool) and [TaskBench](https://github.com/microsoft/JARVIS/tree/main/taskbench) components.
+
+### Agent Learning, Memory, and Multi-Agent Generation
+
+[EvoAgent](https://openreview.net/forum?id=QPRpTAxPJM) automatically generates multi-agent systems through evolutionary operations. Our recent memory-augmented agent combines on-policy and off-policy optimization so that experience can support both stable learning and continued exploration [Liu et al., ICLR 2026](https://openreview.net/forum?id=UOzxviKVFO).
+
+### Domain-specific Agent Systems
+
+We develop agents whose reasoning and memory are grounded in specialized workflows. [Trade in Minutes!](https://openreview.net/forum?id=ROEwZAxqyS) builds a rationality-driven agentic system for quantitative financial trading. [AgentCF++](https://arxiv.org/abs/2502.13843) uses dual-layer and group-shared memory to model cross-domain preferences and popularity effects in recommendation.
+
+### Computer-Use Agents and Evaluation
+
+[WeaveBench](https://arxiv.org/abs/2606.09426) evaluates long-horizon agents that must coordinate graphical interfaces, terminals, code editors, browsers, and external tools in real-world tasks. [MedCUA-Bench](https://openreview.net/forum?id=gC1m98w7cq) specializes this direction for clinical workflows and screenshot-only interaction. Together, they test whether agents can execute complete workflows rather than isolated actions.
+
+JARVIS also supports Azure OpenAI and GPT-4, and a lightweight HuggingGPT implementation is available in [LangChain](https://github.com/langchain-ai/langchain/tree/master/libs/experimental/langchain_experimental/autonomous_agents/hugginggpt).
 
 
 ## Reference

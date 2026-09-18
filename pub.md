@@ -2,12 +2,183 @@
 layout: page
 title: Publication
 description: This page lists all of our publications.
+lang: en
+alternate_url: /zh/publications/
 ---
 
 
 	
 ### 2026
 <ul style="padding-left:10px">
+					<!-- EMNLP 2026 -->
+					<li><a href="https://arxiv.org/abs/2606.09426">
+						WeaveBench: A Long-Horizon, Real-World Benchmark for Computer-Use Agents with Hybrid Interfaces
+					</a>
+                        <br>Wanli Li, Bowen Zhou, Yunyao Yu, Zhou Xu, Yifan Yang, Dongsheng Li, Caihua Shan.
+                        <br>The 2026 Conference on Empirical Methods in Natural Language Processing <a>(EMNLP)</a>. 2026
+                        <br />
+                    </li>
+					<li><a href="https://openreview.net/forum?id=gC1m98w7cq">
+						MedCUA-Bench: A Screenshot-Only Benchmark for Clinical Computer-Use Agents
+					</a>
+                        <br>Jia Yu, Zilong Wang, Xinyang Jiang, Dongsheng Li, Shuo Wang.
+                        <br>Findings of the Association for Computational Linguistics: EMNLP <a>(EMNLP Findings)</a>. 2026
+                        <br />
+                    </li>
+					<!-- COLM 2026 -->
+					<li><a href="https://openreview.net/forum?id=Az7guis46K">
+						Why Does Self-Distillation (Sometimes) Degrade the Reasoning Capability of LLMs?
+					</a>
+                        <br>Jeonghye Kim, Xufang Luo, Minbeom Kim, Sangmook Lee, Dohyung Kim, Jiwon Jeon, Dongsheng Li, Yuqing Yang.
+                        <br>The Third Conference on Language Modeling <a>(COLM)</a>. 2026
+                        <br />
+                    </li>
+					<!-- ICML 2026 -->
+					<li><a href="https://openreview.net/forum?id=tLW4Tc7Zn9">
+						Improving Diffusion Planners by Self-Supervised Action Gating with Energies
+					</a>
+                        <br>Yuan Lu, Dongqi Han, Yansen Wang, Dongsheng Li.
+                        <br>The Forty-third International Conference on Machine Learning <a>(ICML)</a>. 2026
+                        <br />
+                    </li>
+					<li><a href="https://openreview.net/forum?id=1rSqVUl7l3">
+						Kuramoto Oscillatory Phase Encoding: Neuro-inspired Synchronization for Improved Learning Efficiency
+					</a>
+                        <br>Mingqing Xiao, Yansen Wang, Dongqi Han, Caihua Shan, Dongsheng Li.
+                        <br>The Forty-third International Conference on Machine Learning <a>(ICML)</a>. 2026
+                        <br />
+                    </li>
+					<li><a href="https://openreview.net/forum?id=pAhGjPOlwy">
+						Mitigating Plasticity Loss through Architectural Design in Continual Learning
+					</a>
+                        <br>Niklas Koeppe, Luiz Felipe Vecchietti, Dongqi Han, Dongsheng Li, Sang Wan Lee.
+                        <br>The Forty-third International Conference on Machine Learning <a>(ICML)</a>. 2026
+                        <br />
+                    </li>
+					<li><a href="https://openreview.net/forum?id=fPX6A4us61">
+						Stabilized Supralinear Networks Learn to Switch Coding Strategies Balancing Cost and Performance
+					</a>
+                        <br>Haoyu Albert Wang, Wei P. Dai, Jialun Ma, Jiawei Zhang, Jinqi Liu, Mingchen Jiang, Mingqing Xiao, Yansen Wang, Dongqi Han, Dongsheng Li, Yuguo Yu.
+                        <br>The Forty-third International Conference on Machine Learning <a>(ICML)</a>. 2026
+                        <br />
+                    </li>
+					<!-- ACL 2026 -->
+					<li><a href="https://arxiv.org/abs/2604.08133">
+						Alloc-MoE: Budget-Aware Expert Activation Allocation for Efficient Mixture-of-Experts Inference
+					</a>
+                        <br>Baihui Liu, Kaiyuan Tian, Wei Wang, Zhaoning Zhang, Linbo Qiao, Dongsheng Li.
+                        <br>The 64th Annual Meeting of the Association for Computational Linguistics <a>(ACL)</a>. 2026
+                        <br />
+                    </li>
+					<li><a href="https://arxiv.org/abs/2604.07808">
+						GRASS: Gradient-based Adaptive Layer-wise Importance Sampling for Memory-efficient Large Language Model Fine-tuning
+					</a>
+                        <br>Kaiyuan Tian, Yu Tang, Gongqingjian Jiang, Baihui Liu, Yifu Gao, Xialin Su, Linbo Qiao, Dongsheng Li.
+                        <br>Findings of the 64th Annual Meeting of the Association for Computational Linguistics <a>(ACL Findings)</a>. 2026
+                        <br />
+                    </li>
+					<!-- Other 2026 conferences -->
+					<li><a href="https://openreview.net/forum?id=CWqJ77eZGV">
+						UniGCRec: Unified User-Item Quantization for Generative Cross-Domain Recommendation
+					</a>
+                        <br>Chaoyue Ding, Jiahao Liu, Dongsheng Li, Shengkang Gu, Hansu Gu, Peng Zhang, Ning Gu, Tun Lu.
+                        <br>The 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining <a>(KDD)</a>. 2026
+                        <br />
+                    </li>
+					<li><a href="https://openreview.net/forum?id=LEGQcEZPd2">
+						Drift-Aware Incremental Token Adaptation with Collaborative Semantics for Generative Recommendation
+					</a>
+                        <br>Yuebo Feng, Jiahao Liu, Mingzhe Han, Dongsheng Li, Hansu Gu, Peng Zhang, Tun Lu, Ning Gu.
+                        <br>The 49th International ACM SIGIR Conference on Research and Development in Information Retrieval <a>(SIGIR)</a>. 2026
+                        <br />
+                    </li>
+					<li><a href="https://arxiv.org/abs/2505.13528">
+						LLM-Based User Simulation for Low-Knowledge Shilling Attacks on Recommender Systems
+					</a>
+                        <br>Shengkang Gu, Jiahao Liu, Dongsheng Li, Guangping Zhang, Mingzhe Han, Hansu Gu, Peng Zhang, Ning Gu, Li Shang, Tun Lu.
+                        <br>The 19th ACM International Conference on Web Search and Data Mining <a>(WSDM)</a>. 2026
+                        <br />
+                    </li>
+					<li><a href="https://arxiv.org/abs/2504.06533">
+						Rethinking Flexible Graph Similarity Computation: One-step Alignment with Global Guidance
+					</a>
+                        <br>Zhouyang Liu, Ning Liu, Yixin Chen, Jiezhong He, Shuai Ma, Dongsheng Li.
+                        <br>IEEE International Conference on Data Engineering <a>(ICDE)</a>. 2026
+                        <br />
+                    </li>
+					<li><a href="https://arxiv.org/abs/2605.01701">
+						Stability and Generalization for Decentralized Markov SGD
+					</a>
+                        <br>Jiahuan Wang, Ziqing Wen, Ping Luo, Dongsheng Li, Tao Sun.
+                        <br>The 35th International Joint Conference on Artificial Intelligence <a>(IJCAI)</a>. 2026
+                        <br />
+                    </li>
+					<li>
+						<strong>Federated Parameter-Efficient Selective Fine-Tuning for Vision-Language Models via Global-Local Masking</strong>
+                        <br>Wentao Gu, Xinyang Jiang, Junyao Gao, Yuhao Xue, Dongsheng Li, Yanwei Fu, Cairong Zhao.
+                        <br>ACM Multimedia <a>(MM)</a>. 2026
+                        <br />
+                    </li>
+					<li>
+						<strong>Dynamic Feature-Embedding Communication via Codebook Distillation for Federated Recommendation</strong>
+                        <br>Mingzhe Han, Jiahao Liu, Dongsheng Li, Jiankui Zhou, Yaqiong Li, Hansu Gu, Peng Zhang, Ning Gu, Tun Lu.
+                        <br>The 35th ACM International Conference on Information and Knowledge Management <a>(CIKM)</a>. 2026
+                        <br />
+                    </li>
+					<li>
+						<strong>FedHUR: Learning Hierarchical Utility-Guided Client Relations for Personalized Federated Recommendation</strong>
+                        <br>Mingzhe Han, Jiahao Liu, Dongsheng Li, Jiankui Zhou, Hansu Gu, Peng Zhang, Ning Gu, Tun Lu.
+                        <br>The 35th ACM International Conference on Information and Knowledge Management <a>(CIKM)</a>. 2026
+                        <br />
+                    </li>
+					<li>
+						<strong>User-Controlled Intent Layers for LLM-Mediated Personalization: A Research Agenda for Recommender Systems</strong>
+                        <br>Jiahao Liu, Mingzhe Han, Guanming Liu, Weihang Wang, Dongsheng Li, Hansu Gu, Peng Zhang, Tun Lu, Ning Gu.
+                        <br>The 20th ACM Conference on Recommender Systems <a>(RecSys)</a>. 2026
+                        <br />
+                    </li>
+					<!-- Journals 2026 -->
+					<li>
+						<strong>Neural Value Alignment: Human-AI Collaboration Under Goal-Action Ambiguity</strong>
+                        <br>Xin Xu, Yansen Wang, Dongqi Han, Dongsheng Li, Sang Wan Lee.
+                        <br>IEEE Transactions on Cybernetics <a>(TCYB)</a>. 2026 (Accepted)
+                        <br />
+                    </li>
+					<li><a href="https://arxiv.org/abs/2607.22770">
+						Dementia Etiology Diagnosis via Collaborative Meta Knowledge Enhancement
+					</a>
+                        <br>Siyuan Du, Mengxi Chen, Xinyang Jiang, Zilong Wang, Jiangchao Yao, Dongsheng Li, Ya Zhang, Lili Qiu, Yanfeng Wang.
+                        <br>IEEE Transactions on Medical Imaging <a>(TMI)</a>. 2026
+                        <br />
+                    </li>
+					<li><a href="https://www.nature.com/articles/s41467-026-74175-w">
+						A disease-centric vision-language foundation model for precision oncology in kidney cancer
+					</a>
+                        <br>Yuhui Tao, Zhongwei Zhao, Zilong Wang, Xufang Luo, Feng Chen, Kang Wang, Chuanfu Wu, Xue Zhang, Shaoting Zhang, Jiaxi Yao, Xingwei Jin, Xinyang Jiang, Yifan Yang, Dongsheng Li, Lili Qiu, Zhiqiang Shao, Jianming Guo, Nengwang Yu, Ying Xiong, Shuo Wang.
+                        <br><em style="color:red">Nature Communications</em>. 2026
+                        <br />
+                    </li>
+					<li><a href="https://www.nature.com/articles/s41467-026-72601-7">
+						Mitigating algorithmic unfairness arising from forgetfulness of medical records in clinical artificial intelligence
+					</a>
+                        <br>Yixuan Chen, Anshul Thakur, Andrew A. S. Soltan, Yifei Shen, Dongsheng Li, Mingzhi Dong, Li Shang, David A. Clifton, Yujiang Wang.
+                        <br><em style="color:red">Nature Communications</em>. 2026
+                        <br />
+                    </li>
+					<li><a href="https://link.springer.com/article/10.1007/s10994-025-06987-8">
+						Dual-granularity Sinkhorn Distillation for Enhanced Learning from Long-Tailed Noisy Data
+					</a>
+                        <br>Feng Hong, Yu Huang, Zihua Zhao, Zhihan Zhou, Jiangchao Yao, Dongsheng Li, Ya Zhang, Yanfeng Wang.
+                        <br>Machine Learning <a>(ML)</a>. 2026
+                        <br />
+                    </li>
+					<li><a href="https://link.springer.com/article/10.1007/s11432-023-4583-x">
+						Person Identity Shift for Privacy-Preserving Person Re-identification
+					</a>
+                        <br>Shuguang Dou, Xinyang Jiang, Qingsong Zhao, Yansen Wang, Dongsheng Li, Cairong Zhao.
+                        <br>Science China Information Sciences <a>(SCIS)</a>. 2026
+                        <br />
+                    </li>
 					<li><a href="https://arxiv.org/abs/2507.02288">
 						Prompt Disentanglement via Language Guidance and Representation Alignment for Domain Generalization
 					</a>
@@ -98,6 +269,100 @@ description: This page lists all of our publications.
 
 ### 2025
 <ul style="padding-left:10px">
+<!-- ACL Findings 2025 -->
+<li><a href="https://openreview.net/forum?id=c7MyXVhCH4">
+					Mitigate Position Bias in LLMs via Scaling a Single Hidden States Channel
+					</a>
+                        <br>Yijiong Yu, Huiqiang Jiang, Xufang Luo, Qianhui Wu, Chin-Yew Lin, Dongsheng Li, Yuqing Yang, Yongfeng Huang, Lili Qiu.
+                        <br>Findings of the Association for Computational Linguistics <a>(ACL Findings)</a>. 2025
+                        <br />
+</li>
+<!-- ICML 2025 -->
+<li><a href="https://openreview.net/forum?id=wn6WHREK9k">
+					Oracle-MoE: Locality-preserving Routing in the Oracle Space for Memory-constrained Large Language Model Inference
+					</a>
+                        <br>Jixian Zhou, Fang Dong, Ruijun Huang, Hengjie Cao, Mengyi Chen, Yifeng Yang, Anrui Chen, Mingzhi Dong, Yujiang Wang, Dongsheng Li, David A. Clifton, Qin Lv, Rui Zhu, Chun Zhang, Fan Yang, Li Shang.
+                        <br>The Forty-second International Conference on Machine Learning <a>(ICML)</a>. 2025
+                        <br />
+</li>
+<!-- SIGIR 2025 -->
+<li><a href="https://arxiv.org/abs/2504.14208">
+					FedCIA: Federated Collaborative Information Aggregation for Privacy-Preserving Recommendation
+					</a>
+                        <br>Mingzhe Han, Dongsheng Li, Jiafeng Xia, Jiahao Liu, Hansu Gu, Peng Zhang, Ning Gu, Tun Lu.
+                        <br>The 48th International ACM SIGIR Conference on Research and Development in Information Retrieval <a>(SIGIR)</a>. 2025
+                        <br />
+</li>
+<li><a href="https://arxiv.org/abs/2502.13845">
+					Improving LLM-powered Recommendations with Personalized Information
+					</a>
+                        <br>Jiahao Liu, Xueshuo Yan, Dongsheng Li, Guangping Zhang, Hansu Gu, Peng Zhang, Tun Lu, Li Shang, Ning Gu.
+                        <br>The 48th International ACM SIGIR Conference on Research and Development in Information Retrieval <a>(SIGIR)</a>. 2025
+                        <br />
+</li>
+<li><a href="https://arxiv.org/abs/2502.13843">
+					AgentCF++: Memory-enhanced LLM-based Agents for Popularity-aware Cross-domain Recommendations
+					</a>
+                        <br>Jiahao Liu, Shengkang Gu, Dongsheng Li, Guangping Zhang, Mingzhe Han, Hansu Gu, Peng Zhang, Tun Lu, Li Shang, Ning Gu.
+                        <br>The 48th International ACM SIGIR Conference on Research and Development in Information Retrieval <a>(SIGIR)</a>. 2025
+                        <br />
+</li>
+<li><a href="https://arxiv.org/abs/2502.13840">
+					Unbiased Collaborative Filtering with Fair Sampling
+					</a>
+                        <br>Jiahao Liu, Dongsheng Li, Hansu Gu, Peng Zhang, Tun Lu, Li Shang, Ning Gu.
+                        <br>The 48th International ACM SIGIR Conference on Research and Development in Information Retrieval <a>(SIGIR)</a>. 2025
+                        <br />
+</li>
+<!-- Other 2025 conferences and journals -->
+<li><a href="https://dl.acm.org/doi/10.1145/3768342">
+					RECOSIM: A Universal, Accurate, and Scalable Simulation Framework for Online Community Recommendations
+					</a>
+                        <br>Guangping Zhang, Dongsheng Li, Hansu Gu, Peng Zhang, Tun Lu, Li Shang, Ning Gu.
+                        <br>ACM Transactions on Information Systems <a>(TOIS)</a>. 2025
+                        <br />
+</li>
+<li>
+					<strong>EvalAgent: Towards Evaluating News Recommender Systems with LLM-based Agents</strong>
+                        <br>Guangping Zhang, Peng Zhang, Jiahao Liu, Zhuoheng Li, Dongsheng Li, Hansu Gu, Tun Lu, Ning Gu.
+                        <br>The 34th ACM International Conference on Information and Knowledge Management <a>(CIKM)</a>. 2025
+                        <br />
+</li>
+<li><a href="https://arxiv.org/abs/2407.19937">
+					AOTree: Aspect Order Tree-based Model for Explainable Recommendation
+					</a>
+                        <br>Wenxin Zhao, Peng Zhang, Hansu Gu, Dongsheng Li, Tun Lu, Ning Gu.
+                        <br>The International AAAI Conference on Web and Social Media <a>(ICWSM)</a>. 2025
+                        <br />
+</li>
+<li><a href="https://doi.org/10.1007/s10115-025-02426-1">
+					Addressing Popularity Discrepancy in Collaborative Filtering
+					</a>
+                        <br>Cizhou Yu, Dongsheng Li, Hansu Gu, Peng Zhang, Ning Gu, Tun Lu.
+                        <br>Knowledge and Information Systems <a>(KAIS)</a>. 2025
+                        <br />
+</li>
+<li><a href="https://openreview.net/forum?id=T2iIppZjhp">
+					Filtering Discomforting Recommendations with Large Language Models
+					</a>
+                        <br>Jiahao Liu, Yiyang Shao, Peng Zhang, Dongsheng Li, Hansu Gu, Chao Chen, Longzhi Du, Tun Lu, Ning Gu.
+                        <br>The Web Conference <a>(WWW)</a>. 2025
+                        <br />
+</li>
+<li><a href="https://arxiv.org/abs/2412.00813">
+					Oracle-guided Dynamic User Preference Modeling for Sequential Recommendation
+					</a>
+                        <br>Jiafeng Xia, Dongsheng Li, Hansu Gu, Tun Lu, Peng Zhang, Li Shang, Ning Gu.
+                        <br>The 18th ACM International Conference on Web Search and Data Mining <a>(WSDM)</a>. 2025
+                        <br />
+</li>
+<li><a href="https://arxiv.org/abs/2409.12532">
+					Denoising Reuse: Exploiting Inter-frame Motion Consistency for Efficient Video Generation
+					</a>
+                        <br>Chenyu Wang, Shuo Yan, Yixuan Chen, Xianwei Wang, Yujiang Wang, Mingzhi Dong, Xiaochen Yang, Dongsheng Li, Rui Zhu, David A. Clifton, Robert P. Dick, Qin Lv, Fan Yang, Tun Lu, Ning Gu, Li Shang.
+                        <br>IEEE Transactions on Circuits and Systems for Video Technology <a>(TCSVT)</a>. 2025
+                        <br />
+</li>
 <!-- NeurIPS 2025 -->
 <li><a href="https://openreview.net/pdf?id=MDWJlTWZHH">
 						Toward Relative Positional Encoding in Spiking Transformers
@@ -142,9 +407,7 @@ description: This page lists all of our publications.
                         <br />
 </li>
 <!-- TPAMI 2025 -->
-<li><a href="https://placeholder.cn">
-					EA-HAS-Bench and Language-Enhanced Shrinkage Search for Energy-aware NAS
-					</a>
+<li><strong>EA-HAS-Bench and Language-Enhanced Shrinkage Search for Energy-aware NAS</strong>
                         <br>Cairong Zhao, Shuguang Dou, Jiale Zhao, Xinyang Jiang, Junyao Gao, Yuge Zhang, Bo Li, Dongsheng Li.
                         <br>IEEE Transactions on Pattern Analysis and Machine Intelligence <a>(TPAMI)</a>. 2025
                         <br />
@@ -451,9 +714,7 @@ description: This page lists all of our publications.
                         <br />
                     </li>
 					<!-- IJCAI 2024 -->
-					<li><a href="https://placeholder.cn">
-					LLMs can Find Mathematical Reasoning Mistakes by Pedagogical Chain-of-Thought
-					</a>
+                    <li><strong>LLMs can Find Mathematical Reasoning Mistakes by Pedagogical Chain-of-Thought</strong>
                         <br>Zhuoxuan Jiang, Haoyuan Peng, Shanshan Feng, Fan Li, Dongsheng Li.
                         <br>The 33rd International Joint Conference on Artificial Intelligence <a>(IJCAI)</a>. 2024
                         <br />
